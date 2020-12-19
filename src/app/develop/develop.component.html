@@ -1,0 +1,24 @@
+<!-- <h3>Descrizione</h3> -->
+<!--
+  <p>Performing a deep comparison of objects in JavaScript is a quite costly operation. Reference checks however, are extremely fast and easy. For that reason, Angular and lots of other libraries depend on reference check comparisons instead of deeply comparing objects. If you mutate objects, you most likely experience weird and unexpected behavior when using any of these libs.</p>
+-->
+<!-- <p>Here are some examples of things that don’t work properly when mutating objects are:</p> -->
+<!-- <ul> -->
+<!-- <li><code>OnPush</code> ChangeDetectionStrategy in Angular</li> -->
+<!-- <li>NgRx selectors</li> -->
+<!-- <li>RxJS operators such as <code>distinct</code>, <code>distinctUntilChanged</code>, <code>tap</code>, …</li> -->
+<!-- </ul> -->
+<!-- <h3>Solution</h3> -->
+<!--
+  <p>Instead of mutating objects, we need to work immutable. Immutability means that we will never mutate objects. Instead, if we need to update state or some object properties, we first copy the object and then make our changes.</p>
+-->
+<!-- <p>This can easily be done with the object/array spread operator:</p> -->
+
+<!--
+  <p>In this example, we have a state object with some data. We want to update the <code>selectedUserId</code> property, without mutating the original object. Using the object spread operator, we create a new object, keeping the same reference to the <code>users</code> array but updating the <code>selectedUserId</code> to 2.</p>
+-->
+<!--
+  <p><strong>Note:</strong> This is just one of the ways we can work immutable. The spread operator is available in the latest versions of JavaScript. There are also libraries that can help us to work immutable that will be more performant for big collections, for example <a href="https://facebook.github.io/immutable-js/">Immutable.js</a>, <a href="https://github.com/mweststrate/immer">Immer</a> or <a href="https://github.com/rtfeldman/seamless-immutable">Seamless Immutable</a>. The point here is that we should embrace immutability and try to avoid mutating objects, regardless of how you accomplish this.</p>
+-->
+
+<pre>{{ content | json }}</pre>

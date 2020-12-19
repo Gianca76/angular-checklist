@@ -12,6 +12,7 @@ import { ChecklistModule } from './checklist/checklist.module';
 import { CustomMaterialModule } from './custom-material.module';
 import { ProjectsModule } from './projects/projects.module';
 import { META_REDUCERS, ROOT_REDUCER } from './state/app.state';
+import { DevelopModule } from './develop/develop.module';
 
 @NgModule({
   declarations: [AppComponent],
@@ -21,6 +22,7 @@ import { META_REDUCERS, ROOT_REDUCER } from './state/app.state';
     StoreModule.forRoot(ROOT_REDUCER, { metaReducers: META_REDUCERS }),
     ProjectsModule,
     ChecklistModule,
+    DevelopModule,
     StoreDevtoolsModule.instrument({
       maxAge: 25,
       logOnly: environment.production
