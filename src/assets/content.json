@@ -1,0 +1,5063 @@
+{
+  "categories": {
+    "fundamentals": {
+      "title": "Fundamentals",
+      "slug": "fundamentals",
+      "items": [
+        "type_fund_1",
+        "type_fund_2",
+        "type_fund_3",
+        "type_fund_4",
+        "type_fund_5",
+        "type_fund_6",
+        "type_fund_7",
+        "type_fund_8",
+        "type_fund_9",
+        "type_fund_10",
+        "angu_fund_52",
+        "angu_fund_53",
+        "angu_fund_54",
+        "angu_fund_55",
+        "angu_fund_56",
+        "angu_fund_57",
+        "angu_fund_58",
+        "angu_fund_59",
+        "angu_fund_60"
+      ]
+    },
+    "manipolazione-dati-e-immutabilità": {
+      "title": "Manipolazione dati e immutabilità",
+      "slug": "manipolazione-dati-e-immutabilità",
+      "items": [
+        "type_mani_11",
+        "type_mani_12",
+        "type_mani_13",
+        "type_mani_14",
+        "type_mani_15",
+        "type_mani_16",
+        "type_mani_17",
+        "type_mani_18"
+      ]
+    },
+    "imports-and-modules": {
+      "title": "imports and modules",
+      "slug": "imports-and-modules",
+      "items": [
+        "type_impo_19",
+        "type_impo_20",
+        "type_impo_21",
+        "type_impo_22",
+        "type_impo_23"
+      ]
+    },
+    "video-by-andrea-simone-costa": {
+      "title": "Video by Andrea Simone Costa",
+      "slug": "video-by-andrea-simone-costa",
+      "items": [
+        "type_vide_24",
+        "type_vide_25",
+        "type_vide_26"
+      ]
+    },
+    "typescript:-fundamentals": {
+      "title": "TypeScript: fundamentals",
+      "slug": "typescript:-fundamentals",
+      "items": [
+        "type_type_27",
+        "type_type_28",
+        "type_type_29",
+        "type_type_30",
+        "type_type_31",
+        "type_type_32",
+        "type_type_33",
+        "type_type_34",
+        "type_type_35",
+        "type_type_36",
+        "type_type_37",
+        "type_type_38",
+        "type_type_39"
+      ]
+    },
+    "panoramica": {
+      "title": "Panoramica",
+      "slug": "panoramica",
+      "items": [
+        "angu_pano_40",
+        "angu_pano_41",
+        "angu_pano_42",
+        "angu_pano_43",
+        "angu_pano_44"
+      ]
+    },
+    "installazione-e-configurazione": {
+      "title": "Installazione e configurazione",
+      "slug": "installazione-e-configurazione",
+      "items": [
+        "angu_inst_45",
+        "angu_inst_46",
+        "angu_inst_47",
+        "angu_inst_48",
+        "angu_inst_49",
+        "angu_inst_50",
+        "angu_inst_51"
+      ]
+    },
+    "angular-structural-directives": {
+      "title": "Angular Structural Directives",
+      "slug": "angular-structural-directives",
+      "items": [
+        "angu_angu_61",
+        "angu_angu_62",
+        "angu_angu_63",
+        "angu_angu_64",
+        "angu_angu_65"
+      ]
+    },
+    "styling": {
+      "title": "Styling",
+      "slug": "styling",
+      "items": [
+        "angu_styl_66",
+        "angu_styl_67",
+        "angu_styl_68",
+        "angu_styl_69",
+        "angu_styl_70",
+        "angu_styl_71"
+      ]
+    },
+    "template-driven-form": {
+      "title": "Template-driven Form",
+      "slug": "template-driven-form",
+      "items": [
+        "angu_temp_72",
+        "angu_temp_73",
+        "angu_temp_74",
+        "angu_temp_75",
+        "angu_temp_76"
+      ]
+    },
+    "custom-components": {
+      "title": "Custom components",
+      "slug": "custom-components",
+      "items": [
+        "angu_cust_77",
+        "angu_cust_78",
+        "angu_cust_79",
+        "angu_cust_80",
+        "angu_cust_81",
+        "angu_cust_82",
+        "angu_cust_83",
+        "angu_cust_84"
+      ]
+    },
+    "browseranimationmodule:-animazioni-in-angular": {
+      "title": "BrowserAnimationModule: animazioni in Angular",
+      "slug": "browseranimationmodule:-animazioni-in-angular",
+      "items": [
+        "angu_brow_85",
+        "angu_brow_86",
+        "angu_brow_87"
+      ]
+    },
+    "multi-view-applications-con-angular-router": {
+      "title": "Multi-view applications con Angular Router",
+      "slug": "multi-view-applications-con-angular-router",
+      "items": [
+        "angu_mult_88",
+        "angu_mult_89",
+        "angu_mult_90",
+        "angu_mult_91",
+        "angu_mult_92",
+        "angu_mult_93",
+        "angu_mult_94"
+      ]
+    },
+    "comunicazione-con-il-server": {
+      "title": "Comunicazione con il server",
+      "slug": "comunicazione-con-il-server",
+      "items": [
+        "angu_comu_95",
+        "angu_comu_96",
+        "angu_comu_97",
+        "angu_comu_98",
+        "angu_comu_99",
+        "angu_comu_100"
+      ]
+    },
+    "dependency-injection": {
+      "title": "Dependency Injection",
+      "slug": "dependency-injection",
+      "items": [
+        "angu_depe_101",
+        "angu_depe_102",
+        "angu_depe_103",
+        "angu_depe_104"
+      ]
+    },
+    "applicazioni-modulari,-approfondimento-router-e-lazy-loading": {
+      "title": "Applicazioni modulari, approfondimento router e lazy loading",
+      "slug": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "items": [
+        "angu_appl_105",
+        "angu_appl_106",
+        "angu_appl_107",
+        "angu_appl_108",
+        "angu_appl_109",
+        "angu_appl_110",
+        "angu_appl_111",
+        "angu_appl_112",
+        "angu_appl_113",
+        "angu_appl_114",
+        "angu_appl_115"
+      ]
+    },
+    "build-&-deploy": {
+      "title": "Build & Deploy",
+      "slug": "build-&-deploy",
+      "items": [
+        "angu_buil_116",
+        "angu_buil_117",
+        "angu_buil_118",
+        "angu_buil_119",
+        "angu_buil_120"
+      ]
+    },
+    "live-coding-/-spa:-hotel-booking-app": {
+      "title": "Live Coding / SPA: Hotel-Booking App",
+      "slug": "live-coding-/-spa:-hotel-booking-app",
+      "items": [
+        "angu_live_121",
+        "angu_live_122",
+        "angu_live_123",
+        "angu_live_124",
+        "angu_live_125",
+        "angu_live_126",
+        "angu_live_127",
+        "angu_live_128",
+        "angu_live_129",
+        "angu_live_130",
+        "angu_live_131",
+        "angu_live_132",
+        "angu_live_133",
+        "angu_live_134",
+        "angu_live_135",
+        "angu_live_136",
+        "angu_live_137",
+        "angu_live_138",
+        "angu_live_139",
+        "angu_live_140",
+        "angu_live_141"
+      ]
+    },
+    "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices": {
+      "title": "Live Coding / Crud APP: approccio component-based, gestione stato & Best Practices",
+      "slug": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "items": [
+        "angu_live_142",
+        "angu_live_143",
+        "angu_live_144",
+        "angu_live_145",
+        "angu_live_146",
+        "angu_live_147",
+        "angu_live_148",
+        "angu_live_149",
+        "angu_live_150",
+        "angu_live_151",
+        "angu_live_152",
+        "angu_live_153",
+        "angu_live_154",
+        "angu_live_155",
+        "angu_live_156",
+        "angu_live_157",
+        "angu_live_158"
+      ]
+    },
+    "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides": {
+      "title": "Live Coding / REALTIME APP con Firebase : creare un remote controller per controllare un viewer di slides",
+      "slug": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "items": [
+        "angu_live_159",
+        "angu_live_160",
+        "angu_live_161",
+        "angu_live_162",
+        "angu_live_163",
+        "angu_live_164",
+        "angu_live_165",
+        "angu_live_166",
+        "angu_live_167",
+        "angu_live_168",
+        "angu_live_169",
+        "angu_live_170",
+        "angu_live_171"
+      ]
+    },
+    "extra": {
+      "title": "Extra",
+      "slug": "extra",
+      "items": [
+        "angu_extr_172",
+        "angu_extr_173",
+        "angu_extr_174",
+        "angu_extr_175",
+        "angu_extr_176"
+      ]
+    },
+    "introduzione-a-rxjs": {
+      "title": "Introduzione a RxJS",
+      "slug": "introduzione-a-rxjs",
+      "items": [
+        "rxjs_intr_177",
+        "rxjs_intr_178",
+        "rxjs_intr_179",
+        "rxjs_intr_180",
+        "rxjs_intr_181",
+        "rxjs_intr_182",
+        "rxjs_intr_183",
+        "rxjs_intr_184",
+        "rxjs_intr_185",
+        "rxjs_intr_186",
+        "rxjs_intr_187",
+        "rxjs_intr_188",
+        "rxjs_intr_189",
+        "rxjs_intr_190"
+      ]
+    },
+    "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server": {
+      "title": "RxJS & Angular: esempi pratici e casi d'uso per la comunicazione con il server",
+      "slug": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "items": [
+        "rxjs_rxjs_191",
+        "rxjs_rxjs_192",
+        "rxjs_rxjs_193",
+        "rxjs_rxjs_194",
+        "rxjs_rxjs_195",
+        "rxjs_rxjs_196",
+        "rxjs_rxjs_197",
+        "rxjs_rxjs_198",
+        "rxjs_rxjs_199",
+        "rxjs_rxjs_200",
+        "rxjs_rxjs_201",
+        "rxjs_rxjs_202",
+        "rxjs_rxjs_203"
+      ]
+    },
+    "rxjs:-advanced-topics": {
+      "title": "RxJS: advanced topics",
+      "slug": "rxjs:-advanced-topics",
+      "items": [
+        "rxjs_rxjs_204",
+        "rxjs_rxjs_205"
+      ]
+    },
+    "rxjs-&-angular:-autenticazione-e-sicurezza": {
+      "title": "RxJS & Angular: autenticazione e sicurezza",
+      "slug": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "items": [
+        "rxjs_rxjs_206",
+        "rxjs_rxjs_207",
+        "rxjs_rxjs_208",
+        "rxjs_rxjs_209",
+        "rxjs_rxjs_210",
+        "rxjs_rxjs_211",
+        "rxjs_rxjs_212",
+        "rxjs_rxjs_213",
+        "rxjs_rxjs_214",
+        "rxjs_rxjs_215"
+      ]
+    },
+    "rxjs-&-angular-reactive-forms": {
+      "title": "RxJS & Angular Reactive Forms",
+      "slug": "rxjs-&-angular-reactive-forms",
+      "items": [
+        "rxjs_rxjs_216",
+        "rxjs_rxjs_217",
+        "rxjs_rxjs_218",
+        "rxjs_rxjs_219",
+        "rxjs_rxjs_220",
+        "rxjs_rxjs_221",
+        "rxjs_rxjs_222",
+        "rxjs_rxjs_223",
+        "rxjs_rxjs_224",
+        "rxjs_rxjs_225"
+      ]
+    },
+    "multicast-&-rxjs-subjects": {
+      "title": "Multicast & RxJS Subjects",
+      "slug": "multicast-&-rxjs-subjects",
+      "items": [
+        "rxjs_mult_226",
+        "rxjs_mult_227",
+        "rxjs_mult_228",
+        "rxjs_mult_229",
+        "rxjs_mult_230",
+        "rxjs_mult_231",
+        "rxjs_mult_232"
+      ]
+    },
+    "extra:-intro-functional-programming-by-andrea-bertoli": {
+      "title": "EXTRA: intro functional programming by Andrea Bertoli",
+      "slug": "extra:-intro-functional-programming-by-andrea-bertoli",
+      "items": [
+        "rxjs_extr_233",
+        "rxjs_extr_234",
+        "rxjs_extr_235",
+        "rxjs_extr_236"
+      ]
+    },
+    "introduzione": {
+      "title": "Introduzione",
+      "slug": "introduzione",
+      "items": [
+        "ngrx_intr_237",
+        "ngrx_intr_238"
+      ]
+    },
+    "introduzione-a-ngrx-e-redux": {
+      "title": "Introduzione a NGRX e REDUX",
+      "slug": "introduzione-a-ngrx-e-redux",
+      "items": [
+        "ngrx_intr_239",
+        "ngrx_intr_240",
+        "ngrx_intr_241",
+        "ngrx_intr_242",
+        "ngrx_intr_243",
+        "ngrx_intr_244"
+      ]
+    },
+    "ngrx-fundamentals": {
+      "title": "NGRX Fundamentals",
+      "slug": "ngrx-fundamentals",
+      "items": [
+        "ngrx_ngrx_245",
+        "ngrx_ngrx_246",
+        "ngrx_ngrx_247",
+        "ngrx_ngrx_248",
+        "ngrx_ngrx_249",
+        "ngrx_ngrx_250",
+        "ngrx_ngrx_251",
+        "ngrx_ngrx_252",
+        "ngrx_ngrx_253",
+        "ngrx_ngrx_254",
+        "ngrx_ngrx_255",
+        "ngrx_ngrx_256",
+        "ngrx_ngrx_257",
+        "ngrx_ngrx_258",
+        "ngrx_ngrx_259"
+      ]
+    },
+    "ngrx:-work-with-collections": {
+      "title": "NGRX: work with collections",
+      "slug": "ngrx:-work-with-collections",
+      "items": [
+        "ngrx_ngrx_260",
+        "ngrx_ngrx_261",
+        "ngrx_ngrx_262",
+        "ngrx_ngrx_263",
+        "ngrx_ngrx_264",
+        "ngrx_ngrx_265",
+        "ngrx_ngrx_266",
+        "ngrx_ngrx_267"
+      ]
+    },
+    "ngrx---crud-apps": {
+      "title": "NGRX - CRUD apps",
+      "slug": "ngrx---crud-apps",
+      "items": [
+        "ngrx_ngrx_268",
+        "ngrx_ngrx_269",
+        "ngrx_ngrx_270",
+        "ngrx_ngrx_271",
+        "ngrx_ngrx_272",
+        "ngrx_ngrx_273",
+        "ngrx_ngrx_274",
+        "ngrx_ngrx_275",
+        "ngrx_ngrx_276",
+        "ngrx_ngrx_277",
+        "ngrx_ngrx_278",
+        "ngrx_ngrx_279",
+        "ngrx_ngrx_280",
+        "ngrx_ngrx_281",
+        "ngrx_ngrx_282",
+        "ngrx_ngrx_283",
+        "ngrx_ngrx_284",
+        "ngrx_ngrx_285",
+        "ngrx_ngrx_286",
+        "ngrx_ngrx_287",
+        "ngrx_ngrx_288",
+        "ngrx_ngrx_289"
+      ]
+    },
+    "invoiceapp:-creare-un-sistema-di-fatturazione": {
+      "title": "InvoiceApp: creare un sistema di fatturazione",
+      "slug": "invoiceapp:-creare-un-sistema-di-fatturazione",
+      "items": [
+        "ngrx_invo_290",
+        "ngrx_invo_291",
+        "ngrx_invo_292",
+        "ngrx_invo_293"
+      ]
+    },
+    "invoiceapp:-preparazione-progetto": {
+      "title": "InvoiceApp: Preparazione Progetto",
+      "slug": "invoiceapp:-preparazione-progetto",
+      "items": [
+        "ngrx_invo_294",
+        "ngrx_invo_295",
+        "ngrx_invo_296",
+        "ngrx_invo_297",
+        "ngrx_invo_298",
+        "ngrx_invo_299",
+        "ngrx_invo_300",
+        "ngrx_invo_301"
+      ]
+    },
+    "invoiceapp:-configurazione-store": {
+      "title": "InvoiceApp: Configurazione Store",
+      "slug": "invoiceapp:-configurazione-store",
+      "items": [
+        "ngrx_invo_302",
+        "ngrx_invo_303",
+        "ngrx_invo_304"
+      ]
+    },
+    "invoiceapp:-sync-router-con-lo-store": {
+      "title": "InvoiceApp: Sync Router con lo Store",
+      "slug": "invoiceapp:-sync-router-con-lo-store",
+      "items": [
+        "ngrx_invo_305",
+        "ngrx_invo_306",
+        "ngrx_invo_307",
+        "ngrx_invo_308",
+        "ngrx_invo_309"
+      ]
+    },
+    "invoiceapp:-gestione-profilo-utente": {
+      "title": "InvoiceApp: Gestione Profilo Utente",
+      "slug": "invoiceapp:-gestione-profilo-utente",
+      "items": [
+        "ngrx_invo_310",
+        "ngrx_invo_311",
+        "ngrx_invo_312",
+        "ngrx_invo_313",
+        "ngrx_invo_314",
+        "ngrx_invo_315",
+        "ngrx_invo_316",
+        "ngrx_invo_317",
+        "ngrx_invo_318",
+        "ngrx_invo_319",
+        "ngrx_invo_320",
+        "ngrx_invo_321",
+        "ngrx_invo_322"
+      ]
+    },
+    "invoice-app:-autenticazione-e-sicurezza": {
+      "title": "Invoice App: Autenticazione e Sicurezza",
+      "slug": "invoice-app:-autenticazione-e-sicurezza",
+      "items": [
+        "ngrx_invo_323",
+        "ngrx_invo_324",
+        "ngrx_invo_325",
+        "ngrx_invo_326",
+        "ngrx_invo_327",
+        "ngrx_invo_328",
+        "ngrx_invo_329",
+        "ngrx_invo_330",
+        "ngrx_invo_331",
+        "ngrx_invo_332",
+        "ngrx_invo_333",
+        "ngrx_invo_334",
+        "ngrx_invo_335",
+        "ngrx_invo_336",
+        "ngrx_invo_337",
+        "ngrx_invo_338"
+      ]
+    },
+    "invoiceapp:-introduzione-alla-feature-invoiceeditor": {
+      "title": "InvoiceApp: introduzione alla feature InvoiceEditor",
+      "slug": "invoiceapp:-introduzione-alla-feature-invoiceeditor",
+      "items": [
+        "ngrx_invo_339",
+        "ngrx_invo_340",
+        "ngrx_invo_341",
+        "ngrx_invo_342",
+        "ngrx_invo_343"
+      ]
+    },
+    "invoiceeditor-->-clients:-ui": {
+      "title": "InvoiceEditor -> Clients: UI",
+      "slug": "invoiceeditor-->-clients:-ui",
+      "items": [
+        "ngrx_invo_344",
+        "ngrx_invo_345",
+        "ngrx_invo_346",
+        "ngrx_invo_347",
+        "ngrx_invo_348",
+        "ngrx_invo_349",
+        "ngrx_invo_350",
+        "ngrx_invo_351",
+        "ngrx_invo_352",
+        "ngrx_invo_353",
+        "ngrx_invo_354"
+      ]
+    },
+    "invoiceeditor-->-clients:-gestione-store": {
+      "title": "InvoiceEditor -> Clients: gestione STORE",
+      "slug": "invoiceeditor-->-clients:-gestione-store",
+      "items": [
+        "ngrx_invo_355",
+        "ngrx_invo_356",
+        "ngrx_invo_357",
+        "ngrx_invo_358",
+        "ngrx_invo_359",
+        "ngrx_invo_360",
+        "ngrx_invo_361",
+        "ngrx_invo_362",
+        "ngrx_invo_363"
+      ]
+    },
+    "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed": {
+      "title": "InvoiceEditor -> HttpStatus: gestione messaggi \"success\" e \"failed\"",
+      "slug": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "items": [
+        "ngrx_invo_364",
+        "ngrx_invo_365",
+        "ngrx_invo_366",
+        "ngrx_invo_367",
+        "ngrx_invo_368",
+        "ngrx_invo_369",
+        "ngrx_invo_370",
+        "ngrx_invo_371",
+        "ngrx_invo_372",
+        "ngrx_invo_373"
+      ]
+    },
+    "invoiceeditor-->-ui-->-sync-user-interface-with-store": {
+      "title": "InvoiceEditor -> ui -> sync user interface with store",
+      "slug": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "items": [
+        "ngrx_invo_374",
+        "ngrx_invo_375",
+        "ngrx_invo_376",
+        "ngrx_invo_377",
+        "ngrx_invo_378",
+        "ngrx_invo_379"
+      ]
+    },
+    "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)": {
+      "title": "InvoiceEditor -> Invoices: gestione fatture (advanced tricks)",
+      "slug": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "items": [
+        "ngrx_invo_380",
+        "ngrx_invo_381",
+        "ngrx_invo_382",
+        "ngrx_invo_383",
+        "ngrx_invo_384",
+        "ngrx_invo_385",
+        "ngrx_invo_386",
+        "ngrx_invo_387",
+        "ngrx_invo_388",
+        "ngrx_invo_389",
+        "ngrx_invo_390",
+        "ngrx_invo_391",
+        "ngrx_invo_392",
+        "ngrx_invo_393",
+        "ngrx_invo_394",
+        "ngrx_invo_395",
+        "ngrx_invo_396",
+        "ngrx_invo_397",
+        "ngrx_invo_398",
+        "ngrx_invo_399",
+        "ngrx_invo_400"
+      ]
+    },
+    "invoiceapp-->-invoiceeditor:-reactive-forms": {
+      "title": "InvoiceApp -> InvoiceEditor: Reactive Forms",
+      "slug": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "items": [
+        "ngrx_invo_401",
+        "ngrx_invo_402",
+        "ngrx_invo_403",
+        "ngrx_invo_404",
+        "ngrx_invo_405",
+        "ngrx_invo_406",
+        "ngrx_invo_407",
+        "ngrx_invo_408",
+        "ngrx_invo_409",
+        "ngrx_invo_410",
+        "ngrx_invo_411"
+      ]
+    },
+    "miglioramenti-best-practices-and-fix": {
+      "title": "Miglioramenti-best-practices-and-fix",
+      "slug": "miglioramenti-best-practices-and-fix",
+      "items": [
+        "ngrx_migl_412",
+        "ngrx_migl_413",
+        "ngrx_migl_414",
+        "ngrx_migl_415",
+        "ngrx_migl_416"
+      ]
+    },
+    "stampa-fattura": {
+      "title": "Stampa Fattura",
+      "slug": "stampa-fattura",
+      "items": [
+        "ngrx_stam_417",
+        "ngrx_stam_418",
+        "ngrx_stam_419",
+        "ngrx_stam_420",
+        "ngrx_stam_421"
+      ]
+    },
+    "extra:-ngrx-tips-&-tricks": {
+      "title": "EXTRA: NGRX tips & tricks",
+      "slug": "extra:-ngrx-tips-&-tricks",
+      "items": [
+        "ngrx_extr_422",
+        "ngrx_extr_423",
+        "ngrx_extr_424",
+        "ngrx_extr_425",
+        "ngrx_extr_426",
+        "ngrx_extr_427",
+        "ngrx_extr_428",
+        "ngrx_extr_429",
+        "ngrx_extr_430",
+        "ngrx_extr_431",
+        "ngrx_extr_432",
+        "ngrx_extr_433"
+      ]
+    }
+  },
+  "items": {
+    "type_fund_1": {
+      "id": "type_fund_1",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "introduzione-ad-es6/ts,-babel-e-webpack-(8:48)",
+      "title": "Introduzione ad ES6/TS, Babel e Webpack (8:48)",
+      "time": "8:48",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6878039"
+    },
+    "type_fund_2": {
+      "id": "type_fund_2",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "javascript-es6---cheatsheet",
+      "title": "Javascript ES6 - Cheatsheet",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8626735"
+    },
+    "type_fund_3": {
+      "id": "type_fund_3",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "var-vs-let---block-scope-vs-function-scope-(4:06)",
+      "title": "var vs let - Block Scope vs Function Scope (4:06)",
+      "time": "4:06",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877756"
+    },
+    "type_fund_4": {
+      "id": "type_fund_4",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "le-costanti:-const---mutabilità-vs-immutabilità-(6:23)",
+      "title": "Le costanti: const - Mutabilità vs Immutabilità (6:23)",
+      "time": "6:23",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877757"
+    },
+    "type_fund_5": {
+      "id": "type_fund_5",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "template-literals:-stringhe-multiline-con-espressioni-(3:58)",
+      "title": "Template literals: stringhe multiline con espressioni (3:58)",
+      "time": "3:58",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877755"
+    },
+    "type_fund_6": {
+      "id": "type_fund_6",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "short-object-syntax-(2:26)",
+      "title": "Short Object syntax (2:26)",
+      "time": "2:26",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6878160"
+    },
+    "type_fund_7": {
+      "id": "type_fund_7",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "destructuring-array-(3:38)",
+      "title": "Destructuring Array (3:38)",
+      "time": "3:38",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6878163"
+    },
+    "type_fund_8": {
+      "id": "type_fund_8",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "destructuring-object---part-1-(5:47)",
+      "title": "Destructuring Object - part 1 (5:47)",
+      "time": "5:47",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8637315"
+    },
+    "type_fund_9": {
+      "id": "type_fund_9",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "destructuring-object---part-2:-nested-props-(3:27)",
+      "title": "Destructuring Object - part 2: nested props (3:27)",
+      "time": "3:27",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8637319"
+    },
+    "type_fund_10": {
+      "id": "type_fund_10",
+      "course": "TypeScript",
+      "idCategory": 1,
+      "category": "fundamentals",
+      "slug": "destructuring-object---part-3:-rename-&-short-object-syntax-(2:13)",
+      "title": "Destructuring Object - part 3: rename & short object syntax (2:13)",
+      "time": "2:13",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8637320"
+    },
+    "type_mani_11": {
+      "id": "type_mani_11",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "array-spread-operator:-clone,-merge-e-modifica-array-(3:15)",
+      "title": "Array Spread operator: clone, merge e modifica array (3:15)",
+      "time": "3:15",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877758"
+    },
+    "type_mani_12": {
+      "id": "type_mani_12",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "object-spread-operator-vs-object.assign-(4:55)",
+      "title": "Object Spread operator vs Object.assign (4:55)",
+      "time": "4:55",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877761"
+    },
+    "type_mani_13": {
+      "id": "type_mani_13",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "arrow-function-(4:32)",
+      "title": "Arrow function (4:32)",
+      "time": "4:32",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877744"
+    },
+    "type_mani_14": {
+      "id": "type_mani_14",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "array:-map-(4:10)",
+      "title": "Array: map (4:10)",
+      "time": "4:10",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6877745"
+    },
+    "type_mani_15": {
+      "id": "type_mani_15",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "array:-filter-(2:41)",
+      "title": "Array: filter (2:41)",
+      "time": "2:41",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8620040"
+    },
+    "type_mani_16": {
+      "id": "type_mani_16",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "array:-find-&-findindex-(3:29)",
+      "title": "Array: find & findIndex (3:29)",
+      "time": "3:29",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8620492"
+    },
+    "type_mani_17": {
+      "id": "type_mani_17",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "immutabilità-in-es6,-react,-angular,-redux-(13:30)",
+      "title": "Immutabilità in ES6, React, Angular, Redux (13:30)",
+      "time": "13:30",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8620520"
+    },
+    "type_mani_18": {
+      "id": "type_mani_18",
+      "course": "TypeScript",
+      "idCategory": 2,
+      "category": "manipolazione-dati-e-immutabilità",
+      "slug": "classes,-ereditarietà-e-lexical-this-(6:41)",
+      "title": "Classes, Ereditarietà e lexical this (6:41)",
+      "time": "6:41",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/6878162"
+    },
+    "type_impo_19": {
+      "id": "type_impo_19",
+      "course": "TypeScript",
+      "idCategory": 3,
+      "category": "imports-and-modules",
+      "slug": "creazione-progetto-es6-con-webserver-e-npm-(3:01)",
+      "title": "Creazione progetto ES6 con webserver e npm (3:01)",
+      "time": "3:01",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8621634"
+    },
+    "type_impo_20": {
+      "id": "type_impo_20",
+      "course": "TypeScript",
+      "idCategory": 3,
+      "category": "imports-and-modules",
+      "slug": "hello-es6:-il-tag-\"script\"-(1:38)",
+      "title": "Hello ES6: il tag \"script\" (1:38)",
+      "time": "1:38",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8621630"
+    },
+    "type_impo_21": {
+      "id": "type_impo_21",
+      "course": "TypeScript",
+      "idCategory": 3,
+      "category": "imports-and-modules",
+      "slug": "import-modules-e-type=\"module\"-(5:34)",
+      "title": "Import modules e type=\"module\" (5:34)",
+      "time": "5:34",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8621632"
+    },
+    "type_impo_22": {
+      "id": "type_impo_22",
+      "course": "TypeScript",
+      "idCategory": 3,
+      "category": "imports-and-modules",
+      "slug": "import-as-(1:56)",
+      "title": "Import as (1:56)",
+      "time": "1:56",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8621628"
+    },
+    "type_impo_23": {
+      "id": "type_impo_23",
+      "course": "TypeScript",
+      "idCategory": 3,
+      "category": "imports-and-modules",
+      "slug": "import-default-(5:23)",
+      "title": "Import default (5:23)",
+      "time": "5:23",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8621731"
+    },
+    "type_vide_24": {
+      "id": "type_vide_24",
+      "course": "TypeScript",
+      "idCategory": 4,
+      "category": "video-by-andrea-simone-costa",
+      "slug": "promises-(8:39)",
+      "title": "Promises (8:39)",
+      "time": "8:39",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8624595"
+    },
+    "type_vide_25": {
+      "id": "type_vide_25",
+      "course": "TypeScript",
+      "idCategory": 4,
+      "category": "video-by-andrea-simone-costa",
+      "slug": "fetch:-comunicazione-con-il-server-(2:53)",
+      "title": "Fetch: comunicazione con il server (2:53)",
+      "time": "2:53",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8698077"
+    },
+    "type_vide_26": {
+      "id": "type_vide_26",
+      "course": "TypeScript",
+      "idCategory": 4,
+      "category": "video-by-andrea-simone-costa",
+      "slug": "async-await-(2:31)",
+      "title": "Async Await (2:31)",
+      "time": "2:31",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/8698079"
+    },
+    "type_type_27": {
+      "id": "type_type_27",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "introduzione-a-typescript-(1:29)",
+      "title": "Introduzione a TypeScript (1:29)",
+      "time": "1:29",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743401"
+    },
+    "type_type_28": {
+      "id": "type_type_28",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "utilizzare-il-mio-playground-typescript-(3:45)",
+      "title": "Utilizzare il mio playground TypeScript (3:45)",
+      "time": "3:45",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743194"
+    },
+    "type_type_29": {
+      "id": "type_type_29",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "utilizzare-on-line-playground:-stackblitz-(3:19)",
+      "title": "Utilizzare on-line playground: StackBlitz (3:19)",
+      "time": "3:19",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743190"
+    },
+    "type_type_30": {
+      "id": "type_type_30",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "inferenza-in-typescript-(2:36)",
+      "title": "Inferenza in TypeScript (2:36)",
+      "time": "2:36",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743197"
+    },
+    "type_type_31": {
+      "id": "type_type_31",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "primitives-types-(4:17)",
+      "title": "Primitives Types (4:17)",
+      "time": "4:17",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743193"
+    },
+    "type_type_32": {
+      "id": "type_type_32",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "tipizzare-oggetti-usando-interface-e-gestione-proprietà-opzionali-(5:55)",
+      "title": "Tipizzare oggetti usando interface e gestione proprietà opzionali (5:55)",
+      "time": "5:55",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743195"
+    },
+    "type_type_33": {
+      "id": "type_type_33",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "tipizzare-oggetti-complessi-(4:14)",
+      "title": "Tipizzare oggetti complessi (4:14)",
+      "time": "4:14",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743191"
+    },
+    "type_type_34": {
+      "id": "type_type_34",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "tipizzare-array-(3:15)",
+      "title": "Tipizzare array (3:15)",
+      "time": "3:15",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743192"
+    },
+    "type_type_35": {
+      "id": "type_type_35",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "utilizzo-di-class-e-type-per-la-tipizzazione-(6:15)",
+      "title": "Utilizzo di class e type per la tipizzazione (6:15)",
+      "time": "6:15",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743196"
+    },
+    "type_type_36": {
+      "id": "type_type_36",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "classi:-private-vs-public-(1:41)",
+      "title": "Classi: private vs public (1:41)",
+      "time": "1:41",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743199"
+    },
+    "type_type_37": {
+      "id": "type_type_37",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "classi:-getter-&-setter-(3:42)",
+      "title": "Classi: getter & setter (3:42)",
+      "time": "3:42",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743198"
+    },
+    "type_type_38": {
+      "id": "type_type_38",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "tipizzare-funzioni-(5:02)",
+      "title": "Tipizzare funzioni (5:02)",
+      "time": "5:02",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743444"
+    },
+    "type_type_39": {
+      "id": "type_type_39",
+      "course": "TypeScript",
+      "idCategory": 5,
+      "category": "typescript:-fundamentals",
+      "slug": "type,-literals-e-introduzione-a-union-types-(1:56)",
+      "title": "Type, literals e introduzione a Union types (1:56)",
+      "time": "1:56",
+      "url": "https://fabiobiondi.teachable.com/courses/448018/lectures/23743283"
+    },
+    "angu_pano_40": {
+      "id": "angu_pano_40",
+      "course": "Angular",
+      "idCategory": 6,
+      "category": "panoramica",
+      "slug": "introduzione-al-corso-(4:44)",
+      "title": "Introduzione al corso (4:44)",
+      "time": "4:44",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8524050"
+    },
+    "angu_pano_41": {
+      "id": "angu_pano_41",
+      "course": "Angular",
+      "idCategory": 6,
+      "category": "panoramica",
+      "slug": "gli-argomenti-del-corso-in-dettaglio-(5:03)",
+      "title": "Gli argomenti del corso in dettaglio (5:03)",
+      "time": "5:03",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6833314"
+    },
+    "angu_pano_42": {
+      "id": "angu_pano_42",
+      "course": "Angular",
+      "idCategory": 6,
+      "category": "panoramica",
+      "slug": "single-page-applications-e-approccio-component-based-(14:37)",
+      "title": "Single Page Applications e approccio component-based (14:37)",
+      "time": "14:37",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6762939"
+    },
+    "angu_pano_43": {
+      "id": "angu_pano_43",
+      "course": "Angular",
+      "idCategory": 6,
+      "category": "panoramica",
+      "slug": "angular-framework:-le-funzionalità-principali-(17:17)",
+      "title": "Angular Framework: le funzionalità principali (17:17)",
+      "time": "17:17",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6762950"
+    },
+    "angu_pano_44": {
+      "id": "angu_pano_44",
+      "course": "Angular",
+      "idCategory": 6,
+      "category": "panoramica",
+      "slug": "gruppo-facebook,-supporto-e-link",
+      "title": "Gruppo Facebook, supporto e Link",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8941746"
+    },
+    "angu_inst_45": {
+      "id": "angu_inst_45",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "installazione-e-utilizzo-di-nodejs-e-nvm-(4:16)",
+      "title": "Installazione e utilizzo di NodeJS e NVM (4:16)",
+      "time": "4:16",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6761849"
+    },
+    "angu_inst_46": {
+      "id": "angu_inst_46",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "installare-angular-cli-e-creare-un-progetto-angular-(2:34)",
+      "title": "Installare Angular CLI e creare un progetto Angular (2:34)",
+      "time": "2:34",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6761850"
+    },
+    "angu_inst_47": {
+      "id": "angu_inst_47",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "introduzione-al-boilerplate-(2:05)",
+      "title": "Introduzione al boilerplate (2:05)",
+      "time": "2:05",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6761853"
+    },
+    "angu_inst_48": {
+      "id": "angu_inst_48",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "appcomponent-e-appmodule:-parte-1---intro-(3:50)",
+      "title": "AppComponent e AppModule: parte 1 - intro (3:50)",
+      "time": "3:50",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6761860"
+    },
+    "angu_inst_49": {
+      "id": "angu_inst_49",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "appcomponent-e-appmodule:-parte-2---code-(3:44)",
+      "title": "AppComponent e AppModule: parte 2 - code (3:44)",
+      "time": "3:44",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6768290"
+    },
+    "angu_inst_50": {
+      "id": "angu_inst_50",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "ng-new:-parametri-(1:59)",
+      "title": "ng new: parametri (1:59)",
+      "time": "1:59",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6768268"
+    },
+    "angu_inst_51": {
+      "id": "angu_inst_51",
+      "course": "Angular",
+      "idCategory": 7,
+      "category": "installazione-e-configurazione",
+      "slug": "update-angular-10:-leggere-per-evitare-warning-(1:33)",
+      "title": "UPDATE ANGULAR 10: leggere per evitare warning (1:33)",
+      "time": "1:33",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/22502348"
+    },
+    "angu_fund_52": {
+      "id": "angu_fund_52",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "interpolation-{{value}}-(1:10)",
+      "title": "Interpolation {{value}} (1:10)",
+      "time": "1:10",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6758655"
+    },
+    "angu_fund_53": {
+      "id": "angu_fund_53",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "native-events:-mouse-e-tastiera-(5:48)",
+      "title": "Native events: mouse e tastiera (5:48)",
+      "time": "5:48",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6758684"
+    },
+    "angu_fund_54": {
+      "id": "angu_fund_54",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "directives-(5:19)",
+      "title": "Directives (5:19)",
+      "time": "5:19",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6758732"
+    },
+    "angu_fund_55": {
+      "id": "angu_fund_55",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "attributi-e-parentesi-quadre-(brackets)-(6:29)",
+      "title": "Attributi e parentesi quadre (brackets) (6:29)",
+      "time": "6:29",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6758851"
+    },
+    "angu_fund_56": {
+      "id": "angu_fund_56",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "components-(5:07)",
+      "title": "Components (5:07)",
+      "time": "5:07",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6760703"
+    },
+    "angu_fund_57": {
+      "id": "angu_fund_57",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "pipes-(5:17)",
+      "title": "Pipes (5:17)",
+      "time": "5:17",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6760557"
+    },
+    "angu_fund_58": {
+      "id": "angu_fund_58",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "custom-types-(5:46)",
+      "title": "Custom Types (5:46)",
+      "time": "5:46",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6760583"
+    },
+    "angu_fund_59": {
+      "id": "angu_fund_59",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "introduzione-ai-service-e-alla-dependency-injection-(3:52)",
+      "title": "Introduzione ai service e alla dependency injection (3:52)",
+      "time": "3:52",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6758779"
+    },
+    "angu_fund_60": {
+      "id": "angu_fund_60",
+      "course": "Angular",
+      "idCategory": 8,
+      "category": "fundamentals",
+      "slug": "comunicazione-con-server,-rest-api-e-httpclient-(5:03)",
+      "title": "Comunicazione con server, REST API e HttpClient (5:03)",
+      "time": "5:03",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6760608"
+    },
+    "angu_angu_61": {
+      "id": "angu_angu_61",
+      "course": "Angular",
+      "idCategory": 9,
+      "category": "angular-structural-directives",
+      "slug": "la-direttiva-ngif-e-l'opzione-ngif...else-(6:02)",
+      "title": "La direttiva ngIf e l'opzione ngIf...else (6:02)",
+      "time": "6:02",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6774988"
+    },
+    "angu_angu_62": {
+      "id": "angu_angu_62",
+      "course": "Angular",
+      "idCategory": 9,
+      "category": "angular-structural-directives",
+      "slug": "la-direttiva-ngfor:-introduzione-e-tipizzare-collezioni-(6:59)",
+      "title": "La direttiva ngFor: introduzione e tipizzare collezioni (6:59)",
+      "time": "6:59",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775041"
+    },
+    "angu_angu_63": {
+      "id": "angu_angu_63",
+      "course": "Angular",
+      "idCategory": 9,
+      "category": "angular-structural-directives",
+      "slug": "la-direttiva-ngfor:-proprietà-index,-last,-odd-(3:30)",
+      "title": "La direttiva ngFor: proprietà index, last, odd (3:30)",
+      "time": "3:30",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775090"
+    },
+    "angu_angu_64": {
+      "id": "angu_angu_64",
+      "course": "Angular",
+      "idCategory": 9,
+      "category": "angular-structural-directives",
+      "slug": "la-direttiva-ngfor:-manipolazione-dati-(5:58)",
+      "title": "La direttiva ngFor: manipolazione dati (5:58)",
+      "time": "5:58",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775096"
+    },
+    "angu_angu_65": {
+      "id": "angu_angu_65",
+      "course": "Angular",
+      "idCategory": 9,
+      "category": "angular-structural-directives",
+      "slug": "la-direttiva-ngswitch-(4:53)",
+      "title": "La direttiva ngSwitch (4:53)",
+      "time": "4:53",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775098"
+    },
+    "angu_styl_66": {
+      "id": "angu_styl_66",
+      "course": "Angular",
+      "idCategory": 10,
+      "category": "styling",
+      "slug": "styles-and-components-(4:06)",
+      "title": "Styles and Components (4:06)",
+      "time": "4:06",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6774991"
+    },
+    "angu_styl_67": {
+      "id": "angu_styl_67",
+      "course": "Angular",
+      "idCategory": 10,
+      "category": "styling",
+      "slug": "inline-css-class-(2:08)",
+      "title": "Inline CSS class (2:08)",
+      "time": "2:08",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775023"
+    },
+    "angu_styl_68": {
+      "id": "angu_styl_68",
+      "course": "Angular",
+      "idCategory": 10,
+      "category": "styling",
+      "slug": "la-direttiva-ngclass-(3:15)",
+      "title": "La direttiva ngClass (3:15)",
+      "time": "3:15",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775014"
+    },
+    "angu_styl_69": {
+      "id": "angu_styl_69",
+      "course": "Angular",
+      "idCategory": 10,
+      "category": "styling",
+      "slug": "inline-styling-(3:27)",
+      "title": "Inline Styling (3:27)",
+      "time": "3:27",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775027"
+    },
+    "angu_styl_70": {
+      "id": "angu_styl_70",
+      "course": "Angular",
+      "idCategory": 10,
+      "category": "styling",
+      "slug": "la-direttiva-ngstyle-(1:50)",
+      "title": "La direttiva ngStyle (1:50)",
+      "time": "1:50",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775042"
+    },
+    "angu_styl_71": {
+      "id": "angu_styl_71",
+      "course": "Angular",
+      "idCategory": 10,
+      "category": "styling",
+      "slug": "librerie-css-3rd-party-e-angular.json-(6:12)",
+      "title": "Librerie CSS 3rd party e angular.json (6:12)",
+      "time": "6:12",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776213"
+    },
+    "angu_temp_72": {
+      "id": "angu_temp_72",
+      "course": "Angular",
+      "idCategory": 11,
+      "category": "template-driven-form",
+      "slug": "input,-\"template-reference-variables\",-keyboard-events-(7:25)",
+      "title": "Input, \"template reference variables\", keyboard events (7:25)",
+      "time": "7:25",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775043"
+    },
+    "angu_temp_73": {
+      "id": "angu_temp_73",
+      "course": "Angular",
+      "idCategory": 11,
+      "category": "template-driven-form",
+      "slug": "la-direttiva-ngmodel:-1way-vs-2-way-binding-(5:49)",
+      "title": "La direttiva ngModel: 1way vs 2 way binding (5:49)",
+      "time": "5:49",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775050"
+    },
+    "angu_temp_74": {
+      "id": "angu_temp_74",
+      "course": "Angular",
+      "idCategory": 11,
+      "category": "template-driven-form",
+      "slug": "ngform,-ngmodel-e-gestione-data-model-(13:50)",
+      "title": "ngForm, ngModel e gestione data model (13:50)",
+      "time": "13:50",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775060"
+    },
+    "angu_temp_75": {
+      "id": "angu_temp_75",
+      "course": "Angular",
+      "idCategory": 11,
+      "category": "template-driven-form",
+      "slug": "form-validation-(8:19)",
+      "title": "Form Validation (8:19)",
+      "time": "8:19",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775069"
+    },
+    "angu_temp_76": {
+      "id": "angu_temp_76",
+      "course": "Angular",
+      "idCategory": 11,
+      "category": "template-driven-form",
+      "slug": "form,-validazione-e-gestione-errori-(4:09)",
+      "title": "Form, validazione e gestione errori (4:09)",
+      "time": "4:09",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6775087"
+    },
+    "angu_cust_77": {
+      "id": "angu_cust_77",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "hello-components-(5:52)",
+      "title": "Hello Components (5:52)",
+      "time": "5:52",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776260"
+    },
+    "angu_cust_78": {
+      "id": "angu_cust_78",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "input-properties-(2:32)",
+      "title": "Input Properties (2:32)",
+      "time": "2:32",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776309"
+    },
+    "angu_cust_79": {
+      "id": "angu_cust_79",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "content-projection-(7:35)",
+      "title": "Content Projection (7:35)",
+      "time": "7:35",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776338"
+    },
+    "angu_cust_80": {
+      "id": "angu_cust_80",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "componenti-\"stateful\"-e-input-default-value-(2:32)",
+      "title": "Componenti \"stateful\" e Input default value (2:32)",
+      "time": "2:32",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8488630"
+    },
+    "angu_cust_81": {
+      "id": "angu_cust_81",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "@output-event-emitter:-realizzare-un-tabbar-component-riutilizzabile-(24:10)",
+      "title": "@Output event emitter: realizzare un TabBar component riutilizzabile (24:10)",
+      "time": "24:10",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6788992"
+    },
+    "angu_cust_82": {
+      "id": "angu_cust_82",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "lifecycle-hook:-ngoninit-(9:23)",
+      "title": "Lifecycle hook: ngOnInit (9:23)",
+      "time": "9:23",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6821010"
+    },
+    "angu_cust_83": {
+      "id": "angu_cust_83",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "lifecycle-hook:-onchange-(5:20)",
+      "title": "Lifecycle Hook: onChange (5:20)",
+      "time": "5:20",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6821012"
+    },
+    "angu_cust_84": {
+      "id": "angu_cust_84",
+      "course": "Angular",
+      "idCategory": 12,
+      "category": "custom-components",
+      "slug": "changedetectionstrategy,-changedetectorref-e-stato-immutabile:-ottimizzazione-performance-e-controllo-del-rendering-(14:45)",
+      "title": "ChangeDetectionStrategy, ChangeDetectorRef e stato immutabile: ottimizzazione performance e controllo del rendering (14:45)",
+      "time": "14:45",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6839347"
+    },
+    "angu_brow_85": {
+      "id": "angu_brow_85",
+      "course": "Angular",
+      "idCategory": 13,
+      "category": "browseranimationmodule:-animazioni-in-angular",
+      "slug": "animated-collapsable-panel:-trigger,-style,-state-e-animate-(11:37)",
+      "title": "Animated Collapsable Panel: trigger, style, state e animate (11:37)",
+      "time": "11:37",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8430354"
+    },
+    "angu_brow_86": {
+      "id": "angu_brow_86",
+      "course": "Angular",
+      "idCategory": 13,
+      "category": "browseranimationmodule:-animazioni-in-angular",
+      "slug": "animated-tabbar:-animations-e-ciclo-di-vita-dei-componenti-(15:58)",
+      "title": "Animated TabBar: animations e ciclo di vita dei componenti (15:58)",
+      "time": "15:58",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8430359"
+    },
+    "angu_brow_87": {
+      "id": "angu_brow_87",
+      "course": "Angular",
+      "idCategory": 13,
+      "category": "browseranimationmodule:-animazioni-in-angular",
+      "slug": "animated-text:-gestire-gli-eventi-delle-animation-(14:02)",
+      "title": "Animated Text: gestire gli eventi delle animation (14:02)",
+      "time": "14:02",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8430366"
+    },
+    "angu_mult_88": {
+      "id": "angu_mult_88",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "introduzione-ad-angular-router-(2:03)",
+      "title": "Introduzione ad angular router (2:03)",
+      "time": "2:03",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782691"
+    },
+    "angu_mult_89": {
+      "id": "angu_mult_89",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "utilizzo-di-angular-router-e-creazione-componenti-con-angular-cli-(6:15)",
+      "title": "Utilizzo di Angular Router e creazione componenti con Angular CLI (6:15)",
+      "time": "6:15",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776409"
+    },
+    "angu_mult_90": {
+      "id": "angu_mult_90",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "navigation-bar-(5:33)",
+      "title": "Navigation Bar (5:33)",
+      "time": "5:33",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776413"
+    },
+    "angu_mult_91": {
+      "id": "angu_mult_91",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "angularcli-ei-il-modulo-approutingmodule-(5:13)",
+      "title": "AngularCLI ei il modulo AppRoutingModule (5:13)",
+      "time": "5:13",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6952522"
+    },
+    "angu_mult_92": {
+      "id": "angu_mult_92",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "passaggio-parametri-e-activatedroute-(8:30)",
+      "title": "Passaggio parametri e ActivatedRoute (8:30)",
+      "time": "8:30",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6796003"
+    },
+    "angu_mult_93": {
+      "id": "angu_mult_93",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "activatedroute-e-router-api-(6:23)",
+      "title": "ActivatedRoute e Router API (6:23)",
+      "time": "6:23",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6796006"
+    },
+    "angu_mult_94": {
+      "id": "angu_mult_94",
+      "course": "Angular",
+      "idCategory": 14,
+      "category": "multi-view-applications-con-angular-router",
+      "slug": "eventi-del-router-&-rxjs-operators-(4:50)",
+      "title": "Eventi del router & RxJS operators (4:50)",
+      "time": "4:50",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6796007"
+    },
+    "angu_comu_95": {
+      "id": "angu_comu_95",
+      "course": "Angular",
+      "idCategory": 15,
+      "category": "comunicazione-con-il-server",
+      "slug": "configurare-un-mock-server:-json-server-(5:13)",
+      "title": "Configurare un mock server: json-server (5:13)",
+      "time": "5:13",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776551"
+    },
+    "angu_comu_96": {
+      "id": "angu_comu_96",
+      "course": "Angular",
+      "idCategory": 15,
+      "category": "comunicazione-con-il-server",
+      "slug": "get:-caricamento-dati-da-rest-api-e-custom-types-(9:30)",
+      "title": "GET: Caricamento dati da REST API e custom types (9:30)",
+      "time": "9:30",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776571"
+    },
+    "angu_comu_97": {
+      "id": "angu_comu_97",
+      "course": "Angular",
+      "idCategory": 15,
+      "category": "comunicazione-con-il-server",
+      "slug": "delete:-cancellazione-elementi-e-gestione-errori-xhr-(8:39)",
+      "title": "DELETE: Cancellazione elementi e gestione errori XHR (8:39)",
+      "time": "8:39",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776604"
+    },
+    "angu_comu_98": {
+      "id": "angu_comu_98",
+      "course": "Angular",
+      "idCategory": 15,
+      "category": "comunicazione-con-il-server",
+      "slug": "dynamic-styles-e-migliorare-il-look-&-feel-(7:45)",
+      "title": "Dynamic styles e migliorare il look & feel (7:45)",
+      "time": "7:45",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776694"
+    },
+    "angu_comu_99": {
+      "id": "angu_comu_99",
+      "course": "Angular",
+      "idCategory": 15,
+      "category": "comunicazione-con-il-server",
+      "slug": "post:-aggiungere-elementi-alla-collezione-tramite-form-(9:55)",
+      "title": "POST: Aggiungere elementi alla collezione tramite form (9:55)",
+      "time": "9:55",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776609"
+    },
+    "angu_comu_100": {
+      "id": "angu_comu_100",
+      "course": "Angular",
+      "idCategory": 15,
+      "category": "comunicazione-con-il-server",
+      "slug": "put-e-patch:-aggiornare-un-elemento-(13:34)",
+      "title": "PUT e PATCH: aggiornare un elemento (13:34)",
+      "time": "13:34",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6776702"
+    },
+    "angu_depe_101": {
+      "id": "angu_depe_101",
+      "course": "Angular",
+      "idCategory": 16,
+      "category": "dependency-injection",
+      "slug": "dependency-injection,-injector-e-providers-(6:01)",
+      "title": "Dependency Injection, injector e providers (6:01)",
+      "time": "6:01",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782564"
+    },
+    "angu_depe_102": {
+      "id": "angu_depe_102",
+      "course": "Angular",
+      "idCategory": 16,
+      "category": "dependency-injection",
+      "slug": "condividere-dati-utilizzando-i-\"service\"-(8:43)",
+      "title": "Condividere dati utilizzando i \"Service\" (8:43)",
+      "time": "8:43",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782552"
+    },
+    "angu_depe_103": {
+      "id": "angu_depe_103",
+      "course": "Angular",
+      "idCategory": 16,
+      "category": "dependency-injection",
+      "slug": "service,-rest-api-e-decoratore-@injectable-(10:57)",
+      "title": "Service, REST API e decoratore @injectable (10:57)",
+      "time": "10:57",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782557"
+    },
+    "angu_depe_104": {
+      "id": "angu_depe_104",
+      "course": "Angular",
+      "idCategory": 16,
+      "category": "dependency-injection",
+      "slug": "gestire-lo-stato-applicativo-(5:49)",
+      "title": "Gestire lo stato applicativo (5:49)",
+      "time": "5:49",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782558"
+    },
+    "angu_appl_105": {
+      "id": "angu_appl_105",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "moduli:-introduzione-(8:23)",
+      "title": "Moduli: introduzione (8:23)",
+      "time": "8:23",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8632150"
+    },
+    "angu_appl_106": {
+      "id": "angu_appl_106",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "applicazioni-modulari-(5:38)",
+      "title": "Applicazioni Modulari (5:38)",
+      "time": "5:38",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622526"
+    },
+    "angu_appl_107": {
+      "id": "angu_appl_107",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "es6-modules-vs-ngmodules-(2:21)",
+      "title": "es6 modules vs ngModules (2:21)",
+      "time": "2:21",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8625952"
+    },
+    "angu_appl_108": {
+      "id": "angu_appl_108",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "feature-modules-(10:12)",
+      "title": "Feature Modules (10:12)",
+      "time": "10:12",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622208"
+    },
+    "angu_appl_109": {
+      "id": "angu_appl_109",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "shared-modules-(11:25)",
+      "title": "Shared Modules (11:25)",
+      "time": "11:25",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622200"
+    },
+    "angu_appl_110": {
+      "id": "angu_appl_110",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "core-module-(3:56)",
+      "title": "Core Module (3:56)",
+      "time": "3:56",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622207"
+    },
+    "angu_appl_111": {
+      "id": "angu_appl_111",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "update-angular-9:-nuova-sintassi-per-gli-import-lazy-dei-moduli",
+      "title": "UPDATE Angular 9: nuova sintassi per gli import lazy dei moduli",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/15266073"
+    },
+    "angu_appl_112": {
+      "id": "angu_appl_112",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "router-&-lazy-loading-(11:56)",
+      "title": "Router & Lazy Loading (11:56)",
+      "time": "11:56",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622211"
+    },
+    "angu_appl_113": {
+      "id": "angu_appl_113",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "moduli-e-route-di-secondo-livello-(5:54)",
+      "title": "Moduli e route di secondo livello (5:54)",
+      "time": "5:54",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8632770"
+    },
+    "angu_appl_114": {
+      "id": "angu_appl_114",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "router-children-e-router-outlet-secondario-(5:34)",
+      "title": "Router children e router-outlet secondario (5:34)",
+      "time": "5:34",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8632812"
+    },
+    "angu_appl_115": {
+      "id": "angu_appl_115",
+      "course": "Angular",
+      "idCategory": 17,
+      "category": "applicazioni-modulari,-approfondimento-router-e-lazy-loading",
+      "slug": "update-angular-8/9:-lazy-loading-&-dynamic-imports-(3:41)",
+      "title": "UPDATE ANGULAR 8/9: lazy loading & dynamic imports (3:41)",
+      "time": "3:41",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/10452670"
+    },
+    "angu_buil_116": {
+      "id": "angu_buil_116",
+      "course": "Angular",
+      "idCategory": 18,
+      "category": "build-&-deploy",
+      "slug": "creare-la-build-del-progetto-e-installare-un-webserver-locale-(3:09)",
+      "title": "Creare la build del progetto e installare un webserver locale (3:09)",
+      "time": "3:09",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782569"
+    },
+    "angu_buil_117": {
+      "id": "angu_buil_117",
+      "course": "Angular",
+      "idCategory": 18,
+      "category": "build-&-deploy",
+      "slug": "ottimizzazione-build,-production-e-tree-shaking-(2:41)",
+      "title": "Ottimizzazione build, production e tree shaking (2:41)",
+      "time": "2:41",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6844488"
+    },
+    "angu_buil_118": {
+      "id": "angu_buil_118",
+      "course": "Angular",
+      "idCategory": 18,
+      "category": "build-&-deploy",
+      "slug": "deploy-delle-applicazioni-su-surge.sh-(2:37)",
+      "title": "Deploy delle applicazioni su Surge.sh (2:37)",
+      "time": "2:37",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782573"
+    },
+    "angu_buil_119": {
+      "id": "angu_buil_119",
+      "course": "Angular",
+      "idCategory": 18,
+      "category": "build-&-deploy",
+      "slug": "pubblicare-un'applicazione-angular-su-surge.sh-(0:54)",
+      "title": "Pubblicare un'applicazione Angular su Surge.sh (0:54)",
+      "time": "0:54",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6844492"
+    },
+    "angu_buil_120": {
+      "id": "angu_buil_120",
+      "course": "Angular",
+      "idCategory": 18,
+      "category": "build-&-deploy",
+      "slug": "environment-variables:-production-vs-development-(5:44)",
+      "title": "environment variables: production vs development (5:44)",
+      "time": "5:44",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782567"
+    },
+    "angu_live_121": {
+      "id": "angu_live_121",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "video-demo-dell'applicazione-(0:20)",
+      "title": "Video demo dell'applicazione (0:20)",
+      "time": "0:20",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8463126"
+    },
+    "angu_live_122": {
+      "id": "angu_live_122",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "parte-1:-sviluppo-applicazione",
+      "title": "PARTE 1: SVILUPPO APPLICAZIONE",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622514"
+    },
+    "angu_live_123": {
+      "id": "angu_live_123",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "layout-statico-html-con-css-grid-(+-source-code)-(8:37)",
+      "title": "Layout statico HTML con CSS Grid (+ source code) (8:37)",
+      "time": "8:37",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8467513"
+    },
+    "angu_live_124": {
+      "id": "angu_live_124",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "creazione-progetto,-gestione-router-e-impaginazione-layout-(11:36)",
+      "title": "Creazione progetto, gestione router e impaginazione layout (11:36)",
+      "time": "11:36",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8467516"
+    },
+    "angu_live_125": {
+      "id": "angu_live_125",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "server-rest,-comunicazione-server,-model,-gestione-form-e-visualizzazione-risultati-(23:21)",
+      "title": "Server REST, comunicazione server, model, gestione form e visualizzazione risultati (23:21)",
+      "time": "23:21",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8467523"
+    },
+    "angu_live_126": {
+      "id": "angu_live_126",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "card-component-e-pipe:-image-gallery,-forms,-maps,-rate,-...-(34:35)",
+      "title": "Card component e pipe: image gallery, forms, maps, rate, ... (34:35)",
+      "time": "34:35",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8467515"
+    },
+    "angu_live_127": {
+      "id": "angu_live_127",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "gestione-del-carrello-(19:26)",
+      "title": "Gestione del carrello (19:26)",
+      "time": "19:26",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8467522"
+    },
+    "angu_live_128": {
+      "id": "angu_live_128",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "autenticazione,-\"sicurezza\"-router-utilizzando-le-guardie-e-protezione-dom-(25:59)",
+      "title": "Autenticazione, \"sicurezza\" router utilizzando le guardie e protezione DOM (25:59)",
+      "time": "25:59",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8468138"
+    },
+    "angu_live_129": {
+      "id": "angu_live_129",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "parte-2:-approccio-component-based",
+      "title": "PARTE 2: APPROCCIO COMPONENT-BASED",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622515"
+    },
+    "angu_live_130": {
+      "id": "angu_live_130",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "approccio-component-based---part-1:-hotel-form,-hotel-list-e-shared-components-(16:42)",
+      "title": "Approccio component-based - PART 1: hotel-form, hotel-list e shared components (16:42)",
+      "time": "16:42",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8482231"
+    },
+    "angu_live_131": {
+      "id": "angu_live_131",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "approccio-component-based---part-2:-i-componenti-rimanenti-(16:57)",
+      "title": "Approccio component-based - PART 2: i componenti rimanenti (16:57)",
+      "time": "16:57",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8508416"
+    },
+    "angu_live_132": {
+      "id": "angu_live_132",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "approccio-component-based---part-3:-card-component-flessibile-e-riutilizzabile-(hostbinding)-(17:02)",
+      "title": "Approccio component-based - PART 3: card component flessibile e riutilizzabile (HostBinding) (17:02)",
+      "time": "17:02",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8508418"
+    },
+    "angu_live_133": {
+      "id": "angu_live_133",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "gestire-il-caso-in-cui-il-risultato-della-ricerca-non-produca-risultati-(4:08)",
+      "title": "Gestire il caso in cui il risultato della ricerca non produca risultati (4:08)",
+      "time": "4:08",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8560573"
+    },
+    "angu_live_134": {
+      "id": "angu_live_134",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "parte-3:-moduli-e-lazy-loading",
+      "title": "PARTE 3: MODULI e LAZY LOADING",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622517"
+    },
+    "angu_live_135": {
+      "id": "angu_live_135",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "shared-module-(5:57)",
+      "title": "Shared Module (5:57)",
+      "time": "5:57",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622521"
+    },
+    "angu_live_136": {
+      "id": "angu_live_136",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "core-module-(5:34)",
+      "title": "Core Module (5:34)",
+      "time": "5:34",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622520"
+    },
+    "angu_live_137": {
+      "id": "angu_live_137",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "features-modules-(6:19)",
+      "title": "Features Modules (6:19)",
+      "time": "6:19",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622522"
+    },
+    "angu_live_138": {
+      "id": "angu_live_138",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "update-angular-9:-leggere",
+      "title": "UPDATE Angular 9: leggere",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/15517869"
+    },
+    "angu_live_139": {
+      "id": "angu_live_139",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "router-&-lazy-loading-(21:06)",
+      "title": "Router & Lazy Loading (21:06)",
+      "time": "21:06",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8622228"
+    },
+    "angu_live_140": {
+      "id": "angu_live_140",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "note-finali",
+      "title": "NOTE FINALI",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/15518066"
+    },
+    "angu_live_141": {
+      "id": "angu_live_141",
+      "course": "Angular",
+      "idCategory": 19,
+      "category": "live-coding-/-spa:-hotel-booking-app",
+      "slug": "download-source-code",
+      "title": "Download Source Code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8891997"
+    },
+    "angu_live_142": {
+      "id": "angu_live_142",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "demo-dell'applicazione-(0:11)",
+      "title": "Demo dell'applicazione (0:11)",
+      "time": "0:11",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6788997"
+    },
+    "angu_live_143": {
+      "id": "angu_live_143",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "creazione-progetto,-tslint,-installazione-dipendenze-e-mock-server-(9:46)",
+      "title": "Creazione progetto, TSLint, installazione dipendenze e Mock Server (9:46)",
+      "time": "9:46",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6801508"
+    },
+    "angu_live_144": {
+      "id": "angu_live_144",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "creare-\"features-components\"-da-angular-cli-e-gestione-router-(4:04)",
+      "title": "Creare \"features components\" da Angular-CLI e gestione router (4:04)",
+      "time": "4:04",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6801527"
+    },
+    "angu_live_145": {
+      "id": "angu_live_145",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "get-e-delete:-visualizzazione-e-cancellazione-dati-dal-server-(7:40)",
+      "title": "GET e DELETE: visualizzazione e cancellazione dati dal server (7:40)",
+      "time": "7:40",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6801529"
+    },
+    "angu_live_146": {
+      "id": "angu_live_146",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "put,-patch-e-post:-modifica-e-inserimento-dati-(17:34)",
+      "title": "PUT, PATCH e POST: modifica e inserimento dati (17:34)",
+      "time": "17:34",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6801540"
+    },
+    "angu_live_147": {
+      "id": "angu_live_147",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "download-source-code",
+      "title": "Download Source Code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8892455"
+    },
+    "angu_live_148": {
+      "id": "angu_live_148",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "organizzare-il-layout-in-componenti:-cataloglist-(8:05)",
+      "title": "Organizzare il layout in componenti: CatalogList (8:05)",
+      "time": "8:05",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6788999"
+    },
+    "angu_live_149": {
+      "id": "angu_live_149",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "organizzare-il-layout-in-componenti:-catalogform-(14:20)",
+      "title": "Organizzare il layout in componenti: CatalogForm (14:20)",
+      "time": "14:20",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6823977"
+    },
+    "angu_live_150": {
+      "id": "angu_live_150",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "metodo-onchanges-del-ciclo-di-vita-dei-componenti-e-decoratore-@viewchild-(9:17)",
+      "title": "Metodo onChanges del ciclo di vita dei componenti e decoratore @ViewChild (9:17)",
+      "time": "9:17",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6821476"
+    },
+    "angu_live_151": {
+      "id": "angu_live_151",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "download-source-code",
+      "title": "Download Source Code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8892452"
+    },
+    "angu_live_152": {
+      "id": "angu_live_152",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "organizzazione-dell'applicazione-in-services-(5:36)",
+      "title": "Organizzazione dell'applicazione in services (5:36)",
+      "time": "5:36",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6821023"
+    },
+    "angu_live_153": {
+      "id": "angu_live_153",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "gestire-lo-stato-applicativo-(8:18)",
+      "title": "Gestire lo stato applicativo (8:18)",
+      "time": "8:18",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6782559"
+    },
+    "angu_live_154": {
+      "id": "angu_live_154",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "download-source-code",
+      "title": "Download Source Code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8892484"
+    },
+    "angu_live_155": {
+      "id": "angu_live_155",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "nested-components:-componenti-dentro-componenti-(5:12)",
+      "title": "Nested Components: componenti dentro componenti (5:12)",
+      "time": "5:12",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6825072"
+    },
+    "angu_live_156": {
+      "id": "angu_live_156",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "shared-components:-componenti-riutilizzabili-(9:35)",
+      "title": "Shared components: componenti riutilizzabili (9:35)",
+      "time": "9:35",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6821154"
+    },
+    "angu_live_157": {
+      "id": "angu_live_157",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "core-components:-navigation-bar-e-router-(4:17)",
+      "title": "Core Components: Navigation bar e router (4:17)",
+      "time": "4:17",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6821152"
+    },
+    "angu_live_158": {
+      "id": "angu_live_158",
+      "course": "Angular",
+      "idCategory": 20,
+      "category": "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices",
+      "slug": "download-source-code",
+      "title": "Download Source Code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8892523"
+    },
+    "angu_live_159": {
+      "id": "angu_live_159",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "demo-dell'applicazione-\"remote-controller\"-(0:18)",
+      "title": "Demo dell'applicazione \"remote controller\" (0:18)",
+      "time": "0:18",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6952824"
+    },
+    "angu_live_160": {
+      "id": "angu_live_160",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "creazione-progetto-con-router-(3:24)",
+      "title": "Creazione progetto con router (3:24)",
+      "time": "3:24",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8437825"
+    },
+    "angu_live_161": {
+      "id": "angu_live_161",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "admin:-creazione-layout-statico---html-+-css-(16:21)",
+      "title": "ADMIN: Creazione layout statico - HTML + CSS (16:21)",
+      "time": "16:21",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8438516"
+    },
+    "angu_live_162": {
+      "id": "angu_live_162",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "viewer:-creazione-layout-statico---html-+-css-(1:48)",
+      "title": "VIEWER: Creazione layout statico - HTML + CSS (1:48)",
+      "time": "1:48",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8438529"
+    },
+    "angu_live_163": {
+      "id": "angu_live_163",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "introduzione-a-firebase-(3:22)",
+      "title": "Introduzione a Firebase (3:22)",
+      "time": "3:22",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930076"
+    },
+    "angu_live_164": {
+      "id": "angu_live_164",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "angularfire:-installazione-e-configurazione-(4:09)",
+      "title": "AngularFire: installazione e configurazione (4:09)",
+      "time": "4:09",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930093"
+    },
+    "angu_live_165": {
+      "id": "angu_live_165",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "controller:-creazione-della-galleria-immagini-realtime-in-firebase-(19:31)",
+      "title": "CONTROLLER: Creazione della galleria immagini realtime in Firebase (19:31)",
+      "time": "19:31",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930096"
+    },
+    "angu_live_166": {
+      "id": "angu_live_166",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "controller:-controllare-le-slide-(7:24)",
+      "title": "CONTROLLER: controllare le slide (7:24)",
+      "time": "7:24",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930086"
+    },
+    "angu_live_167": {
+      "id": "angu_live_167",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "viewer:-visualizzazione-delle-immagini-realtime-(3:05)",
+      "title": "VIEWER: visualizzazione delle immagini realtime (3:05)",
+      "time": "3:05",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930089"
+    },
+    "angu_live_168": {
+      "id": "angu_live_168",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "viewer:-bug-fix-(9:29)",
+      "title": "VIEWER: bug fix (9:29)",
+      "time": "9:29",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930091"
+    },
+    "angu_live_169": {
+      "id": "angu_live_169",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "viewer:-aggiungere-le-animazioni-(8:44)",
+      "title": "VIEWER: aggiungere le animazioni (8:44)",
+      "time": "8:44",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6930087"
+    },
+    "angu_live_170": {
+      "id": "angu_live_170",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "viewer:-animation-bug-fix",
+      "title": "VIEWER: animation bug fix",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8697873"
+    },
+    "angu_live_171": {
+      "id": "angu_live_171",
+      "course": "Angular",
+      "idCategory": 21,
+      "category": "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides",
+      "slug": "testare-l'applicazione-da-un-dispositivo-mobile-tramite-rete-locale-durante-lo-sviluppo:-ng-serve---host-(1:19)",
+      "title": "Testare l'applicazione da un dispositivo mobile tramite rete locale durante lo sviluppo: ng serve --host (1:19)",
+      "time": "1:19",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/6938376"
+    },
+    "angu_extr_172": {
+      "id": "angu_extr_172",
+      "course": "Angular",
+      "idCategory": 22,
+      "category": "extra",
+      "slug": "stackblitz:-editor-online-per-condividere-snippet-(3:34)",
+      "title": "StackBlitz: editor online per condividere snippet (3:34)",
+      "time": "3:34",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/8682631"
+    },
+    "angu_extr_173": {
+      "id": "angu_extr_173",
+      "course": "Angular",
+      "idCategory": 22,
+      "category": "extra",
+      "slug": "introduzione-ai-reactive-forms---video-di-test-del-talk-@-codemotion-2019-(40:53)",
+      "title": "Introduzione ai Reactive Forms - Video di test del talk @ Codemotion 2019 (40:53)",
+      "time": "40:53",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/9648850"
+    },
+    "angu_extr_174": {
+      "id": "angu_extr_174",
+      "course": "Angular",
+      "idCategory": 22,
+      "category": "extra",
+      "slug": "panoramica-su-typescript-3.7-&-utility-types-(14:06)",
+      "title": "Panoramica su Typescript 3.7 & Utility Types (14:06)",
+      "time": "14:06",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/13688049"
+    },
+    "angu_extr_175": {
+      "id": "angu_extr_175",
+      "course": "Angular",
+      "idCategory": 22,
+      "category": "extra",
+      "slug": "ivy-&-angular-9:-dynamic-imports-and-lazy-loading-per-componenti-e-moduli-(21:29)",
+      "title": "IVY & Angular 9: dynamic Imports and lazy loading per componenti e moduli (21:29)",
+      "time": "21:29",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/10452668"
+    },
+    "angu_extr_176": {
+      "id": "angu_extr_176",
+      "course": "Angular",
+      "idCategory": 22,
+      "category": "extra",
+      "slug": "tip-per-configurare-visualstudio-code-&-migliorare-gli-auto-import-(5:02)",
+      "title": "Tip per configurare VisualStudio Code & migliorare gli Auto Import (5:02)",
+      "time": "5:02",
+      "url": "https://fabiobiondi.teachable.com/courses/441059/lectures/14048943"
+    },
+    "rxjs_intr_177": {
+      "id": "rxjs_intr_177",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "introduzione-prima-parte-del-corso-su-rxjs-(teoria---articolo)",
+      "title": "Introduzione prima parte del corso su RxJS (teoria - articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065996"
+    },
+    "rxjs_intr_178": {
+      "id": "rxjs_intr_178",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "premessa-(teoria---video)-(1:14)",
+      "title": "Premessa (teoria - video) (1:14)",
+      "time": "1:14",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065997"
+    },
+    "rxjs_intr_179": {
+      "id": "rxjs_intr_179",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "introduzione-a-rxjs-(3:10)",
+      "title": "Introduzione a RxJS (3:10)",
+      "time": "3:10",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065998"
+    },
+    "rxjs_intr_180": {
+      "id": "rxjs_intr_180",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "imperative-vs-reactive-programming-(9:25)",
+      "title": "Imperative vs Reactive Programming (9:25)",
+      "time": "9:25",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065999"
+    },
+    "rxjs_intr_181": {
+      "id": "rxjs_intr_181",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "rxjs-is-smart:-preview-operatori-throttletime-&-scan-(2:41)",
+      "title": "RxJS is smart: preview operatori throttleTime & scan (2:41)",
+      "time": "2:41",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066000"
+    },
+    "rxjs_intr_182": {
+      "id": "rxjs_intr_182",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "pull-vs-push-(8:08)",
+      "title": "Pull vs Push (8:08)",
+      "time": "8:08",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066001"
+    },
+    "rxjs_intr_183": {
+      "id": "rxjs_intr_183",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "next\",-\"error\"-e-\"complete\"-functions-(5:07)",
+      "title": "next\", \"error\" e \"complete\" functions (5:07)",
+      "time": "5:07",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066002"
+    },
+    "rxjs_intr_184": {
+      "id": "rxjs_intr_184",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "subscription-e-unsubscribe-(4:56)",
+      "title": "Subscription e unsubscribe (4:56)",
+      "time": "4:56",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066003"
+    },
+    "rxjs_intr_185": {
+      "id": "rxjs_intr_185",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "operatori-di-creazione-(6:07)",
+      "title": "Operatori-di-creazione (6:07)",
+      "time": "6:07",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066004"
+    },
+    "rxjs_intr_186": {
+      "id": "rxjs_intr_186",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "pipeable-operators-(5:01)",
+      "title": "Pipeable operators (5:01)",
+      "time": "5:01",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066005"
+    },
+    "rxjs_intr_187": {
+      "id": "rxjs_intr_187",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "debug-and-tap-operator-(4:58)",
+      "title": "Debug and tap operator (4:58)",
+      "time": "4:58",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066006"
+    },
+    "rxjs_intr_188": {
+      "id": "rxjs_intr_188",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "comprendere-i-marble-diagrams-(3:41)",
+      "title": "Comprendere i marble diagrams (3:41)",
+      "time": "3:41",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066007"
+    },
+    "rxjs_intr_189": {
+      "id": "rxjs_intr_189",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "tutti-gli-esempi-del-capitolo-su-stackblitz",
+      "title": "Tutti gli esempi del capitolo su StackBlitz",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066008"
+    },
+    "rxjs_intr_190": {
+      "id": "rxjs_intr_190",
+      "course": "RxJs",
+      "idCategory": 23,
+      "category": "introduzione-a-rxjs",
+      "slug": "come-utilizzare-stackblitz-(3:34)",
+      "title": "Come utilizzare StackBlitz (3:34)",
+      "time": "3:34",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12066009"
+    },
+    "rxjs_rxjs_191": {
+      "id": "rxjs_rxjs_191",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "intro-capitolo-(teoria---articolo)",
+      "title": "Intro Capitolo (teoria - articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065760"
+    },
+    "rxjs_rxjs_192": {
+      "id": "rxjs_rxjs_192",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"map\"-(5:03)",
+      "title": "Operatore \"map\" (5:03)",
+      "time": "5:03",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065761"
+    },
+    "rxjs_rxjs_193": {
+      "id": "rxjs_rxjs_193",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "angular-\"async\"-pipe-(6:08)",
+      "title": "Angular \"async\" pipe (6:08)",
+      "time": "6:08",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065762"
+    },
+    "rxjs_rxjs_194": {
+      "id": "rxjs_rxjs_194",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"forkjoin\"-(5:15)",
+      "title": "Operatore \"forkJoin\" (5:15)",
+      "time": "5:15",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065763"
+    },
+    "rxjs_rxjs_195": {
+      "id": "rxjs_rxjs_195",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"forkjoin\"-con-dictionary-(update-rxjs-6.4)",
+      "title": "Operatore \"ForkJoin\" con dictionary (update RxJS 6.4)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065764"
+    },
+    "rxjs_rxjs_196": {
+      "id": "rxjs_rxjs_196",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"combinelatest\"-(articolo)",
+      "title": "Operatore \"combineLatest\" (articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065765"
+    },
+    "rxjs_rxjs_197": {
+      "id": "rxjs_rxjs_197",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"switchmap\":-nested-xhr-(4:07)",
+      "title": "Operatore \"switchMap\": nested XHR (4:07)",
+      "time": "4:07",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065766"
+    },
+    "rxjs_rxjs_198": {
+      "id": "rxjs_rxjs_198",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"switchmap\"-per-iterare-sugli-array-(3:01)",
+      "title": "Operatore \"switchMap\" per iterare sugli array (3:01)",
+      "time": "3:01",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065767"
+    },
+    "rxjs_rxjs_199": {
+      "id": "rxjs_rxjs_199",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatore-\"retry\"-e-gestione-errori-con-l'operatore-\"catcherror\"-(6:38)",
+      "title": "Operatore \"retry\" e gestione errori con l'operatore \"catchError\" (6:38)",
+      "time": "6:38",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065768"
+    },
+    "rxjs_rxjs_200": {
+      "id": "rxjs_rxjs_200",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "operatori-\"reduce\"-e-\"scan\"-(6:00)",
+      "title": "Operatori \"reduce\" e \"scan\" (6:00)",
+      "time": "6:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065769"
+    },
+    "rxjs_rxjs_201": {
+      "id": "rxjs_rxjs_201",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "switchmap\"-vs-\"exhaustmap\"-(6:14)",
+      "title": "switchmap\" vs \"exhaustmap\" (6:14)",
+      "time": "6:14",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065770"
+    },
+    "rxjs_rxjs_202": {
+      "id": "rxjs_rxjs_202",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "switchmap\"-vs-\"concatmap\"-vs-\"mergemap\"-vs-\"exhaustmap\"-(4:00)",
+      "title": "switchmap\" vs \"concatmap\" vs \"mergemap\" vs \"exhaustmap\" (4:00)",
+      "time": "4:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065771"
+    },
+    "rxjs_rxjs_203": {
+      "id": "rxjs_rxjs_203",
+      "course": "RxJs",
+      "idCategory": 24,
+      "category": "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server",
+      "slug": "esercizio-online-su-switchmap",
+      "title": "Esercizio online su switchMap",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065772"
+    },
+    "rxjs_rxjs_204": {
+      "id": "rxjs_rxjs_204",
+      "course": "RxJs",
+      "idCategory": 25,
+      "category": "rxjs:-advanced-topics",
+      "slug": "operatore-defer():-lazy-observables-(5:04)",
+      "title": "Operatore defer(): lazy observables (5:04)",
+      "time": "5:04",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065758"
+    },
+    "rxjs_rxjs_205": {
+      "id": "rxjs_rxjs_205",
+      "course": "RxJs",
+      "idCategory": 25,
+      "category": "rxjs:-advanced-topics",
+      "slug": "creazione-operatori-custom-rxjs-(5:50)",
+      "title": "Creazione Operatori Custom RXJS (5:50)",
+      "time": "5:50",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065759"
+    },
+    "rxjs_rxjs_206": {
+      "id": "rxjs_rxjs_206",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "cosa-sono-i-behaviorsubject-(articolo)",
+      "title": "Cosa sono i BehaviorSubject (articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065797"
+    },
+    "rxjs_rxjs_207": {
+      "id": "rxjs_rxjs_207",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "introduzione-al-processo-di-autenticazione-in-single-page-applications-(teoria)-(6:51)",
+      "title": "introduzione al processo di autenticazione in Single Page Applications (TEORIA) (6:51)",
+      "time": "6:51",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065798"
+    },
+    "rxjs_rxjs_208": {
+      "id": "rxjs_rxjs_208",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "esercizio-online-su-behaviorsubject",
+      "title": "Esercizio online su BehaviorSubject",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065799"
+    },
+    "rxjs_rxjs_209": {
+      "id": "rxjs_rxjs_209",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "login-e-behaviorsubject-(7:31)",
+      "title": "Login e BehaviorSubject (7:31)",
+      "time": "7:31",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065800"
+    },
+    "rxjs_rxjs_210": {
+      "id": "rxjs_rxjs_210",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "auth-guard-e-rxjs-(4:32)",
+      "title": "Auth-guard e RxJS (4:32)",
+      "time": "4:32",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065801"
+    },
+    "rxjs_rxjs_211": {
+      "id": "rxjs_rxjs_211",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "interceptor---part1:-subject-e-getvalue-(7:59)",
+      "title": "Interceptor - part1: Subject e getvalue (7:59)",
+      "time": "7:59",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065802"
+    },
+    "rxjs_rxjs_212": {
+      "id": "rxjs_rxjs_212",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "interceptor---part2:-approccio-idiomatico-(3:09)",
+      "title": "Interceptor - part2: approccio idiomatico (3:09)",
+      "time": "3:09",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065803"
+    },
+    "rxjs_rxjs_213": {
+      "id": "rxjs_rxjs_213",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "interceptor---part3:-gestione-errori-(6:13)",
+      "title": "Interceptor - part3: gestione errori (6:13)",
+      "time": "6:13",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065804"
+    },
+    "rxjs_rxjs_214": {
+      "id": "rxjs_rxjs_214",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "rxjs-&-router-events-(3:55)",
+      "title": "RxJS & Router Events (3:55)",
+      "time": "3:55",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065805"
+    },
+    "rxjs_rxjs_215": {
+      "id": "rxjs_rxjs_215",
+      "course": "RxJs",
+      "idCategory": 26,
+      "category": "rxjs-&-angular:-autenticazione-e-sicurezza",
+      "slug": "live-demo-e-source-code",
+      "title": "Live demo e source code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065806"
+    },
+    "rxjs_rxjs_216": {
+      "id": "rxjs_rxjs_216",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "introduzione-al-capitolo-(teoria---articolo)",
+      "title": "Introduzione al capitolo (teoria - articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065787"
+    },
+    "rxjs_rxjs_217": {
+      "id": "rxjs_rxjs_217",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "reactive-forms-vs-template-driven-forms-(8:19)",
+      "title": "Reactive Forms vs Template Driven Forms (8:19)",
+      "time": "8:19",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065788"
+    },
+    "rxjs_rxjs_218": {
+      "id": "rxjs_rxjs_218",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "i-moduli-reactiveformsmodule-e-httpclientmodule-(0:43)",
+      "title": "I moduli ReactiveFormsModule e HttpClientModule (0:43)",
+      "time": "0:43",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065789"
+    },
+    "rxjs_rxjs_219": {
+      "id": "rxjs_rxjs_219",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "registra-il-tuo-token-su-openweathermap",
+      "title": "Registra il tuo token su OpenWeatherMap",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065790"
+    },
+    "rxjs_rxjs_220": {
+      "id": "rxjs_rxjs_220",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "multiple-subscribes-(bad-practice)-(4:51)",
+      "title": "Multiple Subscribes (Bad Practice) (4:51)",
+      "time": "4:51",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065791"
+    },
+    "rxjs_rxjs_221": {
+      "id": "rxjs_rxjs_221",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "evitare-subscribe-multiple-con-\"switchmap\"-e-gestione-degli-errori-con-\"catcherror\"-(3:23)",
+      "title": "Evitare subscribe multiple con \"switchMap\" e gestione degli errori con \"catchError\" (3:23)",
+      "time": "3:23",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065792"
+    },
+    "rxjs_rxjs_222": {
+      "id": "rxjs_rxjs_222",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "utilizzare-operatori-rxjs-con-i-reactive-form:-\"startwith\",-\"distinctuntilchanged\",-\"decouncetime\",-\"filter\"-(4:40)",
+      "title": "Utilizzare operatori RxJS con i reactive form: \"startWith\", \"distinctUntilChanged\", \"decounceTime\", \"filter\" (4:40)",
+      "time": "4:40",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065793"
+    },
+    "rxjs_rxjs_223": {
+      "id": "rxjs_rxjs_223",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "l'operatore-\"withlatestfrom\"-(7:25)",
+      "title": "L'operatore \"withLatestFrom\" (7:25)",
+      "time": "7:25",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065794"
+    },
+    "rxjs_rxjs_224": {
+      "id": "rxjs_rxjs_224",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "password-match:-\"combinelatest\"-e-formcontrol-(articolo)",
+      "title": "Password match: \"combineLatest\" e FormControl (articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065795"
+    },
+    "rxjs_rxjs_225": {
+      "id": "rxjs_rxjs_225",
+      "course": "RxJs",
+      "idCategory": 27,
+      "category": "rxjs-&-angular-reactive-forms",
+      "slug": "esercizio-su-formcontrol-e-combinelatest",
+      "title": "Esercizio su FormControl e combineLatest",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065796"
+    },
+    "rxjs_mult_226": {
+      "id": "rxjs_mult_226",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "introduzione-al-concetto-di-subject---unicast-vs-multicast-(10:01)",
+      "title": "Introduzione al concetto di Subject - unicast vs multicast (10:01)",
+      "time": "10:01",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065780"
+    },
+    "rxjs_mult_227": {
+      "id": "rxjs_mult_227",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "utilizzo-behaviorsubject-per-contenere-e-condividere-dati-(6:51)",
+      "title": "Utilizzo BehaviorSubject per contenere e condividere dati (6:51)",
+      "time": "6:51",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065781"
+    },
+    "rxjs_mult_228": {
+      "id": "rxjs_mult_228",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "subject-as-observer-(5:03)",
+      "title": "Subject as Observer (5:03)",
+      "time": "5:03",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065782"
+    },
+    "rxjs_mult_229": {
+      "id": "rxjs_mult_229",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "multicast:-\"subject\"-vs-operatore-\"share\"-(4:32)",
+      "title": "Multicast: \"Subject\" vs operatore \"share\" (4:32)",
+      "time": "4:32",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065783"
+    },
+    "rxjs_mult_230": {
+      "id": "rxjs_mult_230",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "subject\"-vs-\"behaviorssubject\"-vs-\"replaysubject\"-vs-\"asyncsubject\"-(6:31)",
+      "title": "Subject\" vs \"BehaviorsSubject\" vs \"ReplaySubject\" vs \"AsyncSubject\" (6:31)",
+      "time": "6:31",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065784"
+    },
+    "rxjs_mult_231": {
+      "id": "rxjs_mult_231",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "sommario-e-demo-sulle-diverse-tipologie-di-subject-(2:03)",
+      "title": "Sommario e demo sulle diverse tipologie di Subject (2:03)",
+      "time": "2:03",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065785"
+    },
+    "rxjs_mult_232": {
+      "id": "rxjs_mult_232",
+      "course": "RxJs",
+      "idCategory": 28,
+      "category": "multicast-&-rxjs-subjects",
+      "slug": "risorse-e-marble-diagrams",
+      "title": "Risorse e marble diagrams",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/12065786"
+    },
+    "rxjs_extr_233": {
+      "id": "rxjs_extr_233",
+      "course": "RxJs",
+      "idCategory": 29,
+      "category": "extra:-intro-functional-programming-by-andrea-bertoli",
+      "slug": "intro",
+      "title": "Intro",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/14415465"
+    },
+    "rxjs_extr_234": {
+      "id": "rxjs_extr_234",
+      "course": "RxJs",
+      "idCategory": 29,
+      "category": "extra:-intro-functional-programming-by-andrea-bertoli",
+      "slug": "1.-introduzione-alla-fp-(5:08)",
+      "title": "1. Introduzione alla FP (5:08)",
+      "time": "5:08",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/14415450"
+    },
+    "rxjs_extr_235": {
+      "id": "rxjs_extr_235",
+      "course": "RxJs",
+      "idCategory": 29,
+      "category": "extra:-intro-functional-programming-by-andrea-bertoli",
+      "slug": "2.-composizione-di-funzioni-(3:58)",
+      "title": "2. Composizione di funzioni (3:58)",
+      "time": "3:58",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/14415452"
+    },
+    "rxjs_extr_236": {
+      "id": "rxjs_extr_236",
+      "course": "RxJs",
+      "idCategory": 29,
+      "category": "extra:-intro-functional-programming-by-andrea-bertoli",
+      "slug": "3.-immutabilità,-side-effects-e-stato-(4:41)",
+      "title": "3. Immutabilità, side effects e stato (4:41)",
+      "time": "4:41",
+      "url": "https://fabiobiondi.teachable.com/courses/676637/lectures/14415456"
+    },
+    "ngrx_intr_237": {
+      "id": "ngrx_intr_237",
+      "course": "NgRx",
+      "idCategory": 30,
+      "category": "introduzione",
+      "slug": "presentazione-corso-(9:11)",
+      "title": "Presentazione corso (9:11)",
+      "time": "9:11",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/13151500"
+    },
+    "ngrx_intr_238": {
+      "id": "ngrx_intr_238",
+      "course": "NgRx",
+      "idCategory": 30,
+      "category": "introduzione",
+      "slug": "gruppo-facebook,-supporto-e-link",
+      "title": "Gruppo Facebook, supporto e Link",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/13737205"
+    },
+    "ngrx_intr_239": {
+      "id": "ngrx_intr_239",
+      "course": "NgRx",
+      "idCategory": 31,
+      "category": "introduzione-a-ngrx-e-redux",
+      "slug": "1.-a-cosa-serve-uno-state-manager-(4:43)",
+      "title": "1. A cosa serve uno state manager (4:43)",
+      "time": "4:43",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11423743"
+    },
+    "ngrx_intr_240": {
+      "id": "ngrx_intr_240",
+      "course": "NgRx",
+      "idCategory": 31,
+      "category": "introduzione-a-ngrx-e-redux",
+      "slug": "2.-cos'é-ngrx:-pro-e-contro-(12:12)",
+      "title": "2. Cos'é NGRX: pro e contro (12:12)",
+      "time": "12:12",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11423742"
+    },
+    "ngrx_intr_241": {
+      "id": "ngrx_intr_241",
+      "course": "NgRx",
+      "idCategory": 31,
+      "category": "introduzione-a-ngrx-e-redux",
+      "slug": "3.-ngrx-diagram-(6:17)",
+      "title": "3. NGRX Diagram (6:17)",
+      "time": "6:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11423746"
+    },
+    "ngrx_intr_242": {
+      "id": "ngrx_intr_242",
+      "course": "NgRx",
+      "idCategory": 31,
+      "category": "introduzione-a-ngrx-e-redux",
+      "slug": "4.-progetto-e-struttura-cartelle-(5:56)",
+      "title": "4. Progetto e struttura cartelle (5:56)",
+      "time": "5:56",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11423745"
+    },
+    "ngrx_intr_243": {
+      "id": "ngrx_intr_243",
+      "course": "NgRx",
+      "idCategory": 31,
+      "category": "introduzione-a-ngrx-e-redux",
+      "slug": "5.-ngrx:-code-preview-(9:06)",
+      "title": "5. NGRX: code preview (9:06)",
+      "time": "9:06",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11423744"
+    },
+    "ngrx_intr_244": {
+      "id": "ngrx_intr_244",
+      "course": "NgRx",
+      "idCategory": 31,
+      "category": "introduzione-a-ngrx-e-redux",
+      "slug": "6.-stateless-applications-(6:02)",
+      "title": "6. Stateless applications (6:02)",
+      "time": "6:02",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11423747"
+    },
+    "ngrx_ngrx_245": {
+      "id": "ngrx_ngrx_245",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "introduzione-al-capitolo-(teoria---articolo)",
+      "title": "Introduzione al capitolo (teoria - articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11323331"
+    },
+    "ngrx_ngrx_246": {
+      "id": "ngrx_ngrx_246",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "1.-goal:-cosa-realizzeremo-in-questo-capitolo-(3:32)",
+      "title": "1. GOAL: cosa realizzeremo in questo capitolo (3:32)",
+      "time": "3:32",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11546493"
+    },
+    "ngrx_ngrx_247": {
+      "id": "ngrx_ngrx_247",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "2.-store,-reducers-e-actions-(teoria)-(8:06)",
+      "title": "2. Store, reducers e Actions (TEORIA) (8:06)",
+      "time": "8:06",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11546506"
+    },
+    "ngrx_ngrx_248": {
+      "id": "ngrx_ngrx_248",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "3.-creazione-progetto-(1:56)",
+      "title": "3. Creazione Progetto (1:56)",
+      "time": "1:56",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299012"
+    },
+    "ngrx_ngrx_249": {
+      "id": "ngrx_ngrx_249",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "4.-hello-ngrx-(3:54)",
+      "title": "4. Hello NGRX (3:54)",
+      "time": "3:54",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299020"
+    },
+    "ngrx_ngrx_250": {
+      "id": "ngrx_ngrx_250",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "5.-ngrx-&-redux-devtools-(3:50)",
+      "title": "5. NGRX & Redux DevTools (3:50)",
+      "time": "3:50",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299017"
+    },
+    "ngrx_ngrx_251": {
+      "id": "ngrx_ngrx_251",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "6.-lo-store-(0:55)",
+      "title": "6. Lo Store (0:55)",
+      "time": "0:55",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299019"
+    },
+    "ngrx_ngrx_252": {
+      "id": "ngrx_ngrx_252",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "7.-selectors-(4:25)",
+      "title": "7. Selectors (4:25)",
+      "time": "4:25",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299018"
+    },
+    "ngrx_ngrx_253": {
+      "id": "ngrx_ngrx_253",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "8.-selectors-&-ngfor-(3:30)",
+      "title": "8. Selectors & ngFor (3:30)",
+      "time": "3:30",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299021"
+    },
+    "ngrx_ngrx_254": {
+      "id": "ngrx_ngrx_254",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "9.-actions-(5:43)",
+      "title": "9. Actions (5:43)",
+      "time": "5:43",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299022"
+    },
+    "ngrx_ngrx_255": {
+      "id": "ngrx_ngrx_255",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "10.-reducers-(5:13)",
+      "title": "10. Reducers (5:13)",
+      "time": "5:13",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299023"
+    },
+    "ngrx_ngrx_256": {
+      "id": "ngrx_ngrx_256",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "11.-azioni-con-parametri-(6:38)",
+      "title": "11. Azioni con parametri (6:38)",
+      "time": "6:38",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299024"
+    },
+    "ngrx_ngrx_257": {
+      "id": "ngrx_ngrx_257",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "12.-reduxdevtools:-dettagli-e-considerazioni-(7:26)",
+      "title": "12. ReduxDevTools: dettagli e considerazioni (7:26)",
+      "time": "7:26",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299014"
+    },
+    "ngrx_ngrx_258": {
+      "id": "ngrx_ngrx_258",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "13:-manipolare-array:-add-e-remove-(9:35)",
+      "title": "13: Manipolare Array: ADD e REMOVE (9:35)",
+      "time": "9:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299016"
+    },
+    "ngrx_ngrx_259": {
+      "id": "ngrx_ngrx_259",
+      "course": "NgRx",
+      "idCategory": 32,
+      "category": "ngrx-fundamentals",
+      "slug": "quiz---ngrx-fundamentals",
+      "title": "Quiz - NGRX Fundamentals",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11548408"
+    },
+    "ngrx_ngrx_260": {
+      "id": "ngrx_ngrx_260",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "01.-goal:-manipolare-collezioni-dati-in-ngrx-(3:11)",
+      "title": "01. GOAL: manipolare collezioni dati in NGRX (3:11)",
+      "time": "3:11",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11323328"
+    },
+    "ngrx_ngrx_261": {
+      "id": "ngrx_ngrx_261",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "02.-ngrx-actions-(3:05)",
+      "title": "02. NGRX Actions (3:05)",
+      "time": "3:05",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299010"
+    },
+    "ngrx_ngrx_262": {
+      "id": "ngrx_ngrx_262",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "03.-es6-tip:-immutabilità-e-manipolazione-array-(8:40)",
+      "title": "03. ES6 TIP: Immutabilità e manipolazione array (8:40)",
+      "time": "8:40",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11426341"
+    },
+    "ngrx_ngrx_263": {
+      "id": "ngrx_ngrx_263",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "04.-\"users\"-reducer-(7:39)",
+      "title": "04. \"users\" reducer (7:39)",
+      "time": "7:39",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299013"
+    },
+    "ngrx_ngrx_264": {
+      "id": "ngrx_ngrx_264",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "05.-ui:-forms,-add-e-delete-(9:10)",
+      "title": "05. UI: forms, add e delete (9:10)",
+      "time": "9:10",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299011"
+    },
+    "ngrx_ngrx_265": {
+      "id": "ngrx_ngrx_265",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "06.-modifica-dei-dati-utenti-e-\"bugs\"-(12:26)",
+      "title": "06. Modifica dei dati utenti e \"bugs\" (12:26)",
+      "time": "12:26",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11299015"
+    },
+    "ngrx_ngrx_266": {
+      "id": "ngrx_ngrx_266",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "quiz---ngrx:-wotk-with-collections",
+      "title": "Quiz - NGRX: Wotk with collections",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11548476"
+    },
+    "ngrx_ngrx_267": {
+      "id": "ngrx_ngrx_267",
+      "course": "NgRx",
+      "idCategory": 33,
+      "category": "ngrx:-work-with-collections",
+      "slug": "download-source-code",
+      "title": "Download source code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/14623068"
+    },
+    "ngrx_ngrx_268": {
+      "id": "ngrx_ngrx_268",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "01.-goal:-ngrx-crud-apps-(8:19)",
+      "title": "01. GOAL: NGRX CRUD apps (8:19)",
+      "time": "8:19",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11323325"
+    },
+    "ngrx_ngrx_269": {
+      "id": "ngrx_ngrx_269",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "02.-creazione-progetto-(0:54)",
+      "title": "02. Creazione Progetto (0:54)",
+      "time": "0:54",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11314129"
+    },
+    "ngrx_ngrx_270": {
+      "id": "ngrx_ngrx_270",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "03.-installazione-mock-server-rest-(2:12)",
+      "title": "03. Installazione mock server REST (2:12)",
+      "time": "2:12",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11314125"
+    },
+    "ngrx_ngrx_271": {
+      "id": "ngrx_ngrx_271",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "04.-installazione-ngrx-e-configurazione-store-(1:21)",
+      "title": "04. Installazione NGRX e configurazione Store (1:21)",
+      "time": "1:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11314127"
+    },
+    "ngrx_ngrx_272": {
+      "id": "ngrx_ngrx_272",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "05.-actions-(3:17)",
+      "title": "05. Actions (3:17)",
+      "time": "3:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11322223"
+    },
+    "ngrx_ngrx_273": {
+      "id": "ngrx_ngrx_273",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "06.-es6-tip:-immutabilità-e-manipolazione-oggetti-(4:08)",
+      "title": "06. ES6 TIP: immutabilità e manipolazione oggetti (4:08)",
+      "time": "4:08",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11424428"
+    },
+    "ngrx_ngrx_274": {
+      "id": "ngrx_ngrx_274",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "07.-reducer-\"compositi\"-contenenti-logica-(12:21)",
+      "title": "07. Reducer \"compositi\" contenenti logica (12:21)",
+      "time": "12:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11322224"
+    },
+    "ngrx_ngrx_275": {
+      "id": "ngrx_ngrx_275",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "08.-sviluppo-ui:-form-e-list---parte-1-(12:00)",
+      "title": "08. Sviluppo UI: form e list - parte 1 (12:00)",
+      "time": "12:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11314128"
+    },
+    "ngrx_ngrx_276": {
+      "id": "ngrx_ngrx_276",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "09.-sviluppo-ui:-form-e-list---parte-1-(6:25)",
+      "title": "09. Sviluppo UI: form e list - parte 1 (6:25)",
+      "time": "6:25",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11495248"
+    },
+    "ngrx_ngrx_277": {
+      "id": "ngrx_ngrx_277",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "10.-effects:-introduzione-alla-sintassi-e-al-funzionamento-(teoria)-(7:32)",
+      "title": "10. Effects: introduzione alla sintassi e al funzionamento (TEORIA) (7:32)",
+      "time": "7:32",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11323377"
+    },
+    "ngrx_ngrx_278": {
+      "id": "ngrx_ngrx_278",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "11.-effects---parte-1:-load-(11:28)",
+      "title": "11. Effects - Parte 1: load (11:28)",
+      "time": "11:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11322225"
+    },
+    "ngrx_ngrx_279": {
+      "id": "ngrx_ngrx_279",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "tip:-importare-l'effetto-e-httpclientmodule-in-appmodule",
+      "title": "TIP: importare l'effetto e HttpClientModule in AppModule",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/14048861"
+    },
+    "ngrx_ngrx_280": {
+      "id": "ngrx_ngrx_280",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "12.-effects---parte-2:-delete-(6:02)",
+      "title": "12. Effects - Parte 2: delete (6:02)",
+      "time": "6:02",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316175"
+    },
+    "ngrx_ngrx_281": {
+      "id": "ngrx_ngrx_281",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "13.-effects---parte-3:-save,-edit,-add-and-fix-problemi-(20:07)",
+      "title": "13. Effects - Parte 3: save, edit, add and fix problemi (20:07)",
+      "time": "20:07",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316173"
+    },
+    "ngrx_ngrx_282": {
+      "id": "ngrx_ngrx_282",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "14.-appstate:-custom-type-per-lo-store-(2:28)",
+      "title": "14. AppState: custom type per lo Store (2:28)",
+      "time": "2:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316171"
+    },
+    "ngrx_ngrx_283": {
+      "id": "ngrx_ngrx_283",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "15.-combine-reducers-con-actionreducermap-(6:33)",
+      "title": "15. Combine Reducers con ActionReducerMap (6:33)",
+      "time": "6:33",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316174"
+    },
+    "ngrx_ngrx_284": {
+      "id": "ngrx_ngrx_284",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "16.-selectors-(5:11)",
+      "title": "16. Selectors (5:11)",
+      "time": "5:11",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316170"
+    },
+    "ngrx_ngrx_285": {
+      "id": "ngrx_ngrx_285",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "17.-createselector:-selectors-con-parametri-ed-espressioni-(utilizzo-di-filter-&-reduce)-(8:26)",
+      "title": "17. CreateSelector: selectors con parametri ed espressioni (utilizzo di filter & reduce) (8:26)",
+      "time": "8:26",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316177"
+    },
+    "ngrx_ngrx_286": {
+      "id": "ngrx_ngrx_286",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "18.-selectors:-miglioramenti-(1:28)",
+      "title": "18. Selectors: miglioramenti (1:28)",
+      "time": "1:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11316176"
+    },
+    "ngrx_ngrx_287": {
+      "id": "ngrx_ngrx_287",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "19.-gestione-errori-(7:28)",
+      "title": "19. Gestione Errori (7:28)",
+      "time": "7:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11323271"
+    },
+    "ngrx_ngrx_288": {
+      "id": "ngrx_ngrx_288",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "download-source-code",
+      "title": "Download source code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11495543"
+    },
+    "ngrx_ngrx_289": {
+      "id": "ngrx_ngrx_289",
+      "course": "NgRx",
+      "idCategory": 34,
+      "category": "ngrx---crud-apps",
+      "slug": "quiz---ngrx-crud",
+      "title": "QUIZ - NGRX Crud",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11548621"
+    },
+    "ngrx_invo_290": {
+      "id": "ngrx_invo_290",
+      "course": "NgRx",
+      "idCategory": 35,
+      "category": "invoiceapp:-creare-un-sistema-di-fatturazione",
+      "slug": "01.-gli-argomenti-delle-prossime-lezioni-(articolo)",
+      "title": "01. Gli argomenti delle prossime lezioni (articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453155"
+    },
+    "ngrx_invo_291": {
+      "id": "ngrx_invo_291",
+      "course": "NgRx",
+      "idCategory": 35,
+      "category": "invoiceapp:-creare-un-sistema-di-fatturazione",
+      "slug": "02.-goal:-demo-applicazione-(4:50)",
+      "title": "02. GOAL: demo applicazione (4:50)",
+      "time": "4:50",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11547027"
+    },
+    "ngrx_invo_292": {
+      "id": "ngrx_invo_292",
+      "course": "NgRx",
+      "idCategory": 35,
+      "category": "invoiceapp:-creare-un-sistema-di-fatturazione",
+      "slug": "03.-anticipazione:-codice-finale-(4:24)",
+      "title": "03. Anticipazione: codice finale (4:24)",
+      "time": "4:24",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11547273"
+    },
+    "ngrx_invo_293": {
+      "id": "ngrx_invo_293",
+      "course": "NgRx",
+      "idCategory": 35,
+      "category": "invoiceapp:-creare-un-sistema-di-fatturazione",
+      "slug": "download-source-code",
+      "title": "Download Source Code",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/14623093"
+    },
+    "ngrx_invo_294": {
+      "id": "ngrx_invo_294",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "01.-creazione-progetto-tramite-cli-(2:31)",
+      "title": "01. Creazione progetto tramite CLI (2:31)",
+      "time": "2:31",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11546953"
+    },
+    "ngrx_invo_295": {
+      "id": "ngrx_invo_295",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "02.-introduzione-struttura-progetto-modulare:-features-vs-core-vs-shared-(3:42)",
+      "title": "02. Introduzione struttura progetto modulare: features vs core vs shared (3:42)",
+      "time": "3:42",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453904"
+    },
+    "ngrx_invo_296": {
+      "id": "ngrx_invo_296",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "03.-\"features\"-modules-&-lazy-loading-(8:13)",
+      "title": "03. \"Features\" modules & lazy loading (8:13)",
+      "time": "8:13",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453110"
+    },
+    "ngrx_invo_297": {
+      "id": "ngrx_invo_297",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "04.-installare-il-set-di-icone:-fortawesome-(2:24)",
+      "title": "04. Installare il set di icone: FortAwesome (2:24)",
+      "time": "2:24",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453109"
+    },
+    "ngrx_invo_298": {
+      "id": "ngrx_invo_298",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "05.-installare-bootstrap-sass-(2:51)",
+      "title": "05. Installare Bootstrap SASS (2:51)",
+      "time": "2:51",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453112"
+    },
+    "ngrx_invo_299": {
+      "id": "ngrx_invo_299",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "06.-personalizzare-un-tema-di-bootstrap-con-sass-(4:48)",
+      "title": "06. Personalizzare un tema di Bootstrap con SASS (4:48)",
+      "time": "4:48",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453111"
+    },
+    "ngrx_invo_300": {
+      "id": "ngrx_invo_300",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "07.-creare-la-navigation-bar-(6:50)",
+      "title": "07. Creare la Navigation Bar (6:50)",
+      "time": "6:50",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453113"
+    },
+    "ngrx_invo_301": {
+      "id": "ngrx_invo_301",
+      "course": "NgRx",
+      "idCategory": 36,
+      "category": "invoiceapp:-preparazione-progetto",
+      "slug": "08.-modulo-core-e-modulo-share:-forroot-method-(6:06)",
+      "title": "08. Modulo core e modulo share: forRoot method (6:06)",
+      "time": "6:06",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453114"
+    },
+    "ngrx_invo_302": {
+      "id": "ngrx_invo_302",
+      "course": "NgRx",
+      "idCategory": 37,
+      "category": "invoiceapp:-configurazione-store",
+      "slug": "1---ngrx---storemodule.forroot()-(teoria)-(4:17)",
+      "title": "1 - NGRX - StoreModule.forRoot() (Teoria) (4:17)",
+      "time": "4:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11509252"
+    },
+    "ngrx_invo_303": {
+      "id": "ngrx_invo_303",
+      "course": "NgRx",
+      "idCategory": 37,
+      "category": "invoiceapp:-configurazione-store",
+      "slug": "2.-installazione-ngrx-e-configurazione-store-(2:21)",
+      "title": "2. Installazione NGRX e configurazione Store (2:21)",
+      "time": "2:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453138"
+    },
+    "ngrx_invo_304": {
+      "id": "ngrx_invo_304",
+      "course": "NgRx",
+      "idCategory": 37,
+      "category": "invoiceapp:-configurazione-store",
+      "slug": "3.-runtime-checks-configuration-(3:14)",
+      "title": "3. Runtime checks configuration (3:14)",
+      "time": "3:14",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453137"
+    },
+    "ngrx_invo_305": {
+      "id": "ngrx_invo_305",
+      "course": "NgRx",
+      "idCategory": 38,
+      "category": "invoiceapp:-sync-router-con-lo-store",
+      "slug": "01.-installazione-e-configurazione-router-store-con-ngrx-(2:59)",
+      "title": "01. Installazione e configurazione router-store con NGRX (2:59)",
+      "time": "2:59",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453139"
+    },
+    "ngrx_invo_306": {
+      "id": "ngrx_invo_306",
+      "course": "NgRx",
+      "idCategory": 38,
+      "category": "invoiceapp:-sync-router-con-lo-store",
+      "slug": "02.-creare-custom-router-actions-(5:42)",
+      "title": "02. Creare Custom Router Actions (5:42)",
+      "time": "5:42",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453136"
+    },
+    "ngrx_invo_307": {
+      "id": "ngrx_invo_307",
+      "course": "NgRx",
+      "idCategory": 38,
+      "category": "invoiceapp:-sync-router-con-lo-store",
+      "slug": "03.-router-effects-(9:28)",
+      "title": "03. Router Effects (9:28)",
+      "time": "9:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453167"
+    },
+    "ngrx_invo_308": {
+      "id": "ngrx_invo_308",
+      "course": "NgRx",
+      "idCategory": 38,
+      "category": "invoiceapp:-sync-router-con-lo-store",
+      "slug": "04.-router-selectors-(10:28)",
+      "title": "04. Router Selectors (10:28)",
+      "time": "10:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453206"
+    },
+    "ngrx_invo_309": {
+      "id": "ngrx_invo_309",
+      "course": "NgRx",
+      "idCategory": 38,
+      "category": "invoiceapp:-sync-router-con-lo-store",
+      "slug": "tip:-un-approccio-più-idiomatico-nell'utilizzo-del-selettore-(articolo)",
+      "title": "TIP: un approccio più idiomatico nell'utilizzo del selettore (articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11496058"
+    },
+    "ngrx_invo_310": {
+      "id": "ngrx_invo_310",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "goal:-profilo-utente-(1:14)",
+      "title": "GOAL: profilo utente (1:14)",
+      "time": "1:14",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11547418"
+    },
+    "ngrx_invo_311": {
+      "id": "ngrx_invo_311",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "01.-model-&-mock-server-rest-con-json-server-(4:06)",
+      "title": "01. Model & mock server REST con json-server (4:06)",
+      "time": "4:06",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453296"
+    },
+    "ngrx_invo_312": {
+      "id": "ngrx_invo_312",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "02.-profile-service-&-environment-properties-(5:38)",
+      "title": "02. Profile Service & Environment properties (5:38)",
+      "time": "5:38",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453295"
+    },
+    "ngrx_invo_313": {
+      "id": "ngrx_invo_313",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "03.-profile-actions-(1:45)",
+      "title": "03. Profile Actions (1:45)",
+      "time": "1:45",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453297"
+    },
+    "ngrx_invo_314": {
+      "id": "ngrx_invo_314",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "04.-profile-effects-(6:31)",
+      "title": "04. Profile Effects (6:31)",
+      "time": "6:31",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453298"
+    },
+    "ngrx_invo_315": {
+      "id": "ngrx_invo_315",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "05.-profile-reducer-(12:14)",
+      "title": "05. Profile Reducer (12:14)",
+      "time": "12:14",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453480"
+    },
+    "ngrx_invo_316": {
+      "id": "ngrx_invo_316",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "06.-ts-tip:-as-syntax-vs-partial-vs-optional-parameters-(2:35)",
+      "title": "06. TS TIP: as-syntax vs Partial vs optional-parameters (2:35)",
+      "time": "2:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11536076"
+    },
+    "ngrx_invo_317": {
+      "id": "ngrx_invo_317",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "07.-ngrx-tip:-export-reducer-functions-&-limiti-compilazione-aot-(4:37)",
+      "title": "07. NGRX-TIP: export reducer functions & limiti compilazione AoT (4:37)",
+      "time": "4:37",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11535823"
+    },
+    "ngrx_invo_318": {
+      "id": "ngrx_invo_318",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "08.-selectors-&-createfeatureselector-(4:16)",
+      "title": "08. Selectors & createFeatureSelector (4:16)",
+      "time": "4:16",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453482"
+    },
+    "ngrx_invo_319": {
+      "id": "ngrx_invo_319",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "09.-appstate:-\"tipizzare\"-lo-store-(3:21)",
+      "title": "09. AppState: \"tipizzare\" lo Store (3:21)",
+      "time": "3:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453479"
+    },
+    "ngrx_invo_320": {
+      "id": "ngrx_invo_320",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "10.-profile-component:-load-&-display-data-(5:46)",
+      "title": "10. Profile component: load & display data (5:46)",
+      "time": "5:46",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453483"
+    },
+    "ngrx_invo_321": {
+      "id": "ngrx_invo_321",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "11.-profile-component:-edit-data-&-sync-components-(9:25)",
+      "title": "11. Profile component: edit data & sync components (9:25)",
+      "time": "9:25",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453481"
+    },
+    "ngrx_invo_322": {
+      "id": "ngrx_invo_322",
+      "course": "NgRx",
+      "idCategory": 39,
+      "category": "invoiceapp:-gestione-profilo-utente",
+      "slug": "12.-profile-component:-skinning-(3:48)",
+      "title": "12. Profile component: skinning (3:48)",
+      "time": "3:48",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11453478"
+    },
+    "ngrx_invo_323": {
+      "id": "ngrx_invo_323",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "goal:-autenticazione-e-struttura-store-(3:24)",
+      "title": "GOAL: autenticazione e struttura store (3:24)",
+      "time": "3:24",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11547370"
+    },
+    "ngrx_invo_324": {
+      "id": "ngrx_invo_324",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "01.-login-component-(5:21)",
+      "title": "01. Login Component (5:21)",
+      "time": "5:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461768"
+    },
+    "ngrx_invo_325": {
+      "id": "ngrx_invo_325",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "02.-auth-actions-(5:24)",
+      "title": "02. Auth Actions (5:24)",
+      "time": "5:24",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461771"
+    },
+    "ngrx_invo_326": {
+      "id": "ngrx_invo_326",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "03.-auth-service-(4:15)",
+      "title": "03. Auth service (4:15)",
+      "time": "4:15",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461772"
+    },
+    "ngrx_invo_327": {
+      "id": "ngrx_invo_327",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "04.-auth-effects:-login-&-logout-(19:57)",
+      "title": "04. Auth Effects: login & logout (19:57)",
+      "time": "19:57",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461770"
+    },
+    "ngrx_invo_328": {
+      "id": "ngrx_invo_328",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "05.-auth-reducer:-login-&-logout-(7:08)",
+      "title": "05. Auth Reducer: login & logout (7:08)",
+      "time": "7:08",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461769"
+    },
+    "ngrx_invo_329": {
+      "id": "ngrx_invo_329",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "06.-auth-selectors-(2:33)",
+      "title": "06. Auth selectors (2:33)",
+      "time": "2:33",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461773"
+    },
+    "ngrx_invo_330": {
+      "id": "ngrx_invo_330",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "07.-gestione-logout-(3:36)",
+      "title": "07. Gestione Logout (3:36)",
+      "time": "3:36",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461774"
+    },
+    "ngrx_invo_331": {
+      "id": "ngrx_invo_331",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "08.-guards:-protezione-route-e-utilizzo-dei-selettori-(11:15)",
+      "title": "08. Guards: protezione route e utilizzo dei selettori (11:15)",
+      "time": "11:15",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461775"
+    },
+    "ngrx_invo_332": {
+      "id": "ngrx_invo_332",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "09.-autologin:-init-effects.-azioni-e-gestione-localstorage-(10:13)",
+      "title": "09. Autologin: init-effects. azioni e gestione localstorage (10:13)",
+      "time": "10:13",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461776"
+    },
+    "ngrx_invo_333": {
+      "id": "ngrx_invo_333",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "tip-su-httpinterceptor:-importante!",
+      "title": "TIP su HttpInterceptor: IMPORTANTE!",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/14100680"
+    },
+    "ngrx_invo_334": {
+      "id": "ngrx_invo_334",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "10.-httpinterceptor:-selectors-(15:50)",
+      "title": "10. HTTPInterceptor: selectors (15:50)",
+      "time": "15:50",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461951"
+    },
+    "ngrx_invo_335": {
+      "id": "ngrx_invo_335",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "11.-httpinterceptor:-gestione-errori-(3:48)",
+      "title": "11. HTTPInterceptor: gestione errori (3:48)",
+      "time": "3:48",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461952"
+    },
+    "ngrx_invo_336": {
+      "id": "ngrx_invo_336",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "12.-httpinterceptor:-throwerror-(3:28)",
+      "title": "12. HTTPInterceptor: throwError (3:28)",
+      "time": "3:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11503285"
+    },
+    "ngrx_invo_337": {
+      "id": "ngrx_invo_337",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "13.-creazione-direttive-strutturali-(*iflogged):-protezione-dom-(13:38)",
+      "title": "13. Creazione Direttive strutturali (*ifLogged): protezione DOM (13:38)",
+      "time": "13:38",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11461953"
+    },
+    "ngrx_invo_338": {
+      "id": "ngrx_invo_338",
+      "course": "NgRx",
+      "idCategory": 40,
+      "category": "invoice-app:-autenticazione-e-sicurezza",
+      "slug": "14.-rxjs-tip:-evitare-inutili-richieste-http-nel-login:-switchmap-vs-exhaustmap-(2:01)",
+      "title": "14. RXJS TIP: evitare inutili richieste HTTP nel login: switchmap vs exhaustmap (2:01)",
+      "time": "2:01",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11496743"
+    },
+    "ngrx_invo_339": {
+      "id": "ngrx_invo_339",
+      "course": "NgRx",
+      "idCategory": 41,
+      "category": "invoiceapp:-introduzione-alla-feature-invoiceeditor",
+      "slug": "01.-goal-e-struttura-store-(4:22)",
+      "title": "01. GOAL e struttura store (4:22)",
+      "time": "4:22",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11483449"
+    },
+    "ngrx_invo_340": {
+      "id": "ngrx_invo_340",
+      "course": "NgRx",
+      "idCategory": 41,
+      "category": "invoiceapp:-introduzione-alla-feature-invoiceeditor",
+      "slug": "02.-ngrx:-introduzione-store-\"forfeature()\"-(6:17)",
+      "title": "02. NGRX: Introduzione store \"forFeature()\" (6:17)",
+      "time": "6:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11509256"
+    },
+    "ngrx_invo_341": {
+      "id": "ngrx_invo_341",
+      "course": "NgRx",
+      "idCategory": 41,
+      "category": "invoiceapp:-introduzione-alla-feature-invoiceeditor",
+      "slug": "03.-creazione:-store-for-feature-(4:32)",
+      "title": "03. Creazione: store for feature (4:32)",
+      "time": "4:32",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11483448"
+    },
+    "ngrx_invo_342": {
+      "id": "ngrx_invo_342",
+      "course": "NgRx",
+      "idCategory": 41,
+      "category": "invoiceapp:-introduzione-alla-feature-invoiceeditor",
+      "slug": "04.-combine-reducers-con-actionreducermap-(3:12)",
+      "title": "04. Combine Reducers con ActionReducerMap (3:12)",
+      "time": "3:12",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11483450"
+    },
+    "ngrx_invo_343": {
+      "id": "ngrx_invo_343",
+      "course": "NgRx",
+      "idCategory": 41,
+      "category": "invoiceapp:-introduzione-alla-feature-invoiceeditor",
+      "slug": "prossimi-step:-nota-importante",
+      "title": "Prossimi step: nota importante",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11483436"
+    },
+    "ngrx_invo_344": {
+      "id": "ngrx_invo_344",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "01.-goal-(2:51)",
+      "title": "01. GOAL (2:51)",
+      "time": "2:51",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484045"
+    },
+    "ngrx_invo_345": {
+      "id": "ngrx_invo_345",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "02.-struttura-ui-&-component-based-approach-(0:52)",
+      "title": "02. Struttura UI & component-based approach (0:52)",
+      "time": "0:52",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11547590"
+    },
+    "ngrx_invo_346": {
+      "id": "ngrx_invo_346",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "03.-ui:-componente-pannello-clienti-(11:47)",
+      "title": "03. UI: componente pannello Clienti (11:47)",
+      "time": "11:47",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484044"
+    },
+    "ngrx_invo_347": {
+      "id": "ngrx_invo_347",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "04.-ui:-input,-output,-ng-class-&-animations-(6:03)",
+      "title": "04. UI: input, output, ng-class & animations (6:03)",
+      "time": "6:03",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484052"
+    },
+    "ngrx_invo_348": {
+      "id": "ngrx_invo_348",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "05.-ui-children---parte-1:-suddividere-la-ui-in-componenti-(12:39)",
+      "title": "05. UI Children - parte 1: suddividere la UI in componenti (12:39)",
+      "time": "12:39",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484047"
+    },
+    "ngrx_invo_349": {
+      "id": "ngrx_invo_349",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "06.-ui-children---parte-2:-creazione-header-/-add-clients-(7:35)",
+      "title": "06. UI Children - parte 2: creazione header / ADD clients (7:35)",
+      "time": "7:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484043"
+    },
+    "ngrx_invo_350": {
+      "id": "ngrx_invo_350",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "07.-ui-children---parte-3:-header,-@viewchild-&-changedetectorref-(17:04)",
+      "title": "07. UI Children - parte 3: Header, @ViewChild & ChangeDetectorRef (17:04)",
+      "time": "17:04",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484046"
+    },
+    "ngrx_invo_351": {
+      "id": "ngrx_invo_351",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "08.-ui-children---parte-4:-modifica-cliente-(1:50)",
+      "title": "08. UI Children - parte 4: Modifica Cliente (1:50)",
+      "time": "1:50",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484048"
+    },
+    "ngrx_invo_352": {
+      "id": "ngrx_invo_352",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "09.-ui-children---parte-5:-applicare-css-al-wrapper-con-@hostbinding-(3:21)",
+      "title": "09. UI Children - parte 5: applicare CSS al wrapper con @HostBinding (3:21)",
+      "time": "3:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484051"
+    },
+    "ngrx_invo_353": {
+      "id": "ngrx_invo_353",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "10.-client-model-(2:47)",
+      "title": "10. Client Model (2:47)",
+      "time": "2:47",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484050"
+    },
+    "ngrx_invo_354": {
+      "id": "ngrx_invo_354",
+      "course": "NgRx",
+      "idCategory": 42,
+      "category": "invoiceeditor-->-clients:-ui",
+      "slug": "11.-riassunto-e-prossimo-step-(3:35)",
+      "title": "11. Riassunto e prossimo step (3:35)",
+      "time": "3:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484049"
+    },
+    "ngrx_invo_355": {
+      "id": "ngrx_invo_355",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "01.-clientservice-&-rest-api-(4:19)",
+      "title": "01. ClientService & REST API (4:19)",
+      "time": "4:19",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484111"
+    },
+    "ngrx_invo_356": {
+      "id": "ngrx_invo_356",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "02.-clients-actions-(2:05)",
+      "title": "02. Clients Actions (2:05)",
+      "time": "2:05",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484109"
+    },
+    "ngrx_invo_357": {
+      "id": "ngrx_invo_357",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "03.-clients-effects---parte-1-(4:47)",
+      "title": "03. Clients Effects - Parte 1 (4:47)",
+      "time": "4:47",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484110"
+    },
+    "ngrx_invo_358": {
+      "id": "ngrx_invo_358",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "04.-clients-effects---parte-2-(4:12)",
+      "title": "04. Clients Effects - Parte 2 (4:12)",
+      "time": "4:12",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484112"
+    },
+    "ngrx_invo_359": {
+      "id": "ngrx_invo_359",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "05.-clients:-load-(3:03)",
+      "title": "05. Clients: Load (3:03)",
+      "time": "3:03",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484114"
+    },
+    "ngrx_invo_360": {
+      "id": "ngrx_invo_360",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "06.-creare-un-index-per-i-reducers-con-actionreducermap-(3:13)",
+      "title": "06. creare un index per i reducers con actionReducerMap (3:13)",
+      "time": "3:13",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484113"
+    },
+    "ngrx_invo_361": {
+      "id": "ngrx_invo_361",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "07.-clients-reducer-(9:11)",
+      "title": "07. Clients Reducer (9:11)",
+      "time": "9:11",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484116"
+    },
+    "ngrx_invo_362": {
+      "id": "ngrx_invo_362",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "08.-createfeatureselector-vs-createselector-(4:09)",
+      "title": "08. createFeatureSelector vs createSelector (4:09)",
+      "time": "4:09",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484115"
+    },
+    "ngrx_invo_363": {
+      "id": "ngrx_invo_363",
+      "course": "NgRx",
+      "idCategory": 43,
+      "category": "invoiceeditor-->-clients:-gestione-store",
+      "slug": "09.-considerazioni-finali-(2:20)",
+      "title": "09. Considerazioni finali (2:20)",
+      "time": "2:20",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11484117"
+    },
+    "ngrx_invo_364": {
+      "id": "ngrx_invo_364",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "goal-(0:50)",
+      "title": "Goal (0:50)",
+      "time": "0:50",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505876"
+    },
+    "ngrx_invo_365": {
+      "id": "ngrx_invo_365",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "introduzione-(3:15)",
+      "title": "introduzione (3:15)",
+      "time": "3:15",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505874"
+    },
+    "ngrx_invo_366": {
+      "id": "ngrx_invo_366",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus:-gestione-error-e-success-nello-store-(5:17)",
+      "title": "HttpStatus: gestione error e success nello store (5:17)",
+      "time": "5:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505877"
+    },
+    "ngrx_invo_367": {
+      "id": "ngrx_invo_367",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "considerazioni-su-errori-e-gestione-tramite-http-interceptor-(articolo)",
+      "title": "Considerazioni su errori e gestione tramite HTTP Interceptor (articolo)",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11659589"
+    },
+    "ngrx_invo_368": {
+      "id": "ngrx_invo_368",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus:-reducer-(6:29)",
+      "title": "HttpStatus: reducer (6:29)",
+      "time": "6:29",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505875"
+    },
+    "ngrx_invo_369": {
+      "id": "ngrx_invo_369",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus:-selector-(2:47)",
+      "title": "HttpStatus: selector (2:47)",
+      "time": "2:47",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505873"
+    },
+    "ngrx_invo_370": {
+      "id": "ngrx_invo_370",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus-:-ui-e-visualizzazione-errori-(4:51)",
+      "title": "HttpStatus : UI e visualizzazione errori (4:51)",
+      "time": "4:51",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505878"
+    },
+    "ngrx_invo_371": {
+      "id": "ngrx_invo_371",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus:-custom-component-(2:31)",
+      "title": "HttpStatus: custom component (2:31)",
+      "time": "2:31",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505880"
+    },
+    "ngrx_invo_372": {
+      "id": "ngrx_invo_372",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus:-gestione-messaggi-di-successo-(4:21)",
+      "title": "HttpStatus: Gestione messaggi di successo (4:21)",
+      "time": "4:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505879"
+    },
+    "ngrx_invo_373": {
+      "id": "ngrx_invo_373",
+      "course": "NgRx",
+      "idCategory": 44,
+      "category": "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed",
+      "slug": "httpstatus:-conclusione-e-riepilogo-(2:47)",
+      "title": "HttpStatus: conclusione e riepilogo (2:47)",
+      "time": "2:47",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505881"
+    },
+    "ngrx_invo_374": {
+      "id": "ngrx_invo_374",
+      "course": "NgRx",
+      "idCategory": 45,
+      "category": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "slug": "1.-goal-(1:40)",
+      "title": "1. GOAL (1:40)",
+      "time": "1:40",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505882"
+    },
+    "ngrx_invo_375": {
+      "id": "ngrx_invo_375",
+      "course": "NgRx",
+      "idCategory": 45,
+      "category": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "slug": "2.-ui-state-(3:17)",
+      "title": "2. UI state (3:17)",
+      "time": "3:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505883"
+    },
+    "ngrx_invo_376": {
+      "id": "ngrx_invo_376",
+      "course": "NgRx",
+      "idCategory": 45,
+      "category": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "slug": "3.-ui-actions-(1:04)",
+      "title": "3. UI Actions (1:04)",
+      "time": "1:04",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505884"
+    },
+    "ngrx_invo_377": {
+      "id": "ngrx_invo_377",
+      "course": "NgRx",
+      "idCategory": 45,
+      "category": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "slug": "4.-ui-reducers-(5:18)",
+      "title": "4. UI Reducers (5:18)",
+      "time": "5:18",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505886"
+    },
+    "ngrx_invo_378": {
+      "id": "ngrx_invo_378",
+      "course": "NgRx",
+      "idCategory": 45,
+      "category": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "slug": "5.-ui-selectors-(7:58)",
+      "title": "5. UI Selectors (7:58)",
+      "time": "7:58",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505885"
+    },
+    "ngrx_invo_379": {
+      "id": "ngrx_invo_379",
+      "course": "NgRx",
+      "idCategory": 45,
+      "category": "invoiceeditor-->-ui-->-sync-user-interface-with-store",
+      "slug": "6.-ui:-gestione-apertura-/-chiusura-pannelli-(7:24)",
+      "title": "6. UI: gestione apertura / chiusura pannelli (7:24)",
+      "time": "7:24",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11505887"
+    },
+    "ngrx_invo_380": {
+      "id": "ngrx_invo_380",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "01.-goal-(0:55)",
+      "title": "01. GOAL (0:55)",
+      "time": "0:55",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11547920"
+    },
+    "ngrx_invo_381": {
+      "id": "ngrx_invo_381",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "03.-invoice-model-(modello-fattura)-(1:51)",
+      "title": "03. Invoice Model (modello fattura) (1:51)",
+      "time": "1:51",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11520442"
+    },
+    "ngrx_invo_382": {
+      "id": "ngrx_invo_382",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "04.-invoices-actions-(8:49)",
+      "title": "04. Invoices Actions (8:49)",
+      "time": "8:49",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11520543"
+    },
+    "ngrx_invo_383": {
+      "id": "ngrx_invo_383",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "05.-invoice-form:-versione-provvisoria-(7:57)",
+      "title": "05. Invoice Form: versione provvisoria (7:57)",
+      "time": "7:57",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11520642"
+    },
+    "ngrx_invo_384": {
+      "id": "ngrx_invo_384",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "06.-inizializzazione-stato-\"invoices\"-(4:55)",
+      "title": "06. Inizializzazione stato \"invoices\" (4:55)",
+      "time": "4:55",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11520966"
+    },
+    "ngrx_invo_385": {
+      "id": "ngrx_invo_385",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "07.-selectors-per-le-fatture-&-getactiveinvoice-(2:16)",
+      "title": "07. Selectors per le fatture & getActiveInvoice (2:16)",
+      "time": "2:16",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11520956"
+    },
+    "ngrx_invo_386": {
+      "id": "ngrx_invo_386",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "08.-effects-condizionali-e-operatore-rxjs-\"withlatestfrom\"-(10:05)",
+      "title": "08. Effects condizionali e operatore RxJS \"withLatestFrom\" (10:05)",
+      "time": "10:05",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11520934"
+    },
+    "ngrx_invo_387": {
+      "id": "ngrx_invo_387",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "09.-invoices-http-service-(3:05)",
+      "title": "09. Invoices http service (3:05)",
+      "time": "3:05",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529067"
+    },
+    "ngrx_invo_388": {
+      "id": "ngrx_invo_388",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "10.-concatenare-effects-(5:14)",
+      "title": "10. Concatenare effects (5:14)",
+      "time": "5:14",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529066"
+    },
+    "ngrx_invo_389": {
+      "id": "ngrx_invo_389",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "11.-emettere-azioni-multiple-negli-effetti-(4:18)",
+      "title": "11. Emettere azioni multiple negli effetti (4:18)",
+      "time": "4:18",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529068"
+    },
+    "ngrx_invo_390": {
+      "id": "ngrx_invo_390",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "12.-reducer-update:-gestione-activeinvoice-e-addinvoice-(4:28)",
+      "title": "12. Reducer update: gestione activeInvoice e addInvoice (4:28)",
+      "time": "4:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529069"
+    },
+    "ngrx_invo_391": {
+      "id": "ngrx_invo_391",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "13.-initializzazione-invoice-editor-e-gestione-xhr-simultanee-(17:21)",
+      "title": "13. Initializzazione invoice editor e gestione xhr simultanee (17:21)",
+      "time": "17:21",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529071"
+    },
+    "ngrx_invo_392": {
+      "id": "ngrx_invo_392",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "14.-ui:-visualizzazione-fatture-e-gestione-fattura-attiva-(9:35)",
+      "title": "14. UI: visualizzazione fatture e gestione fattura attiva (9:35)",
+      "time": "9:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529072"
+    },
+    "ngrx_invo_393": {
+      "id": "ngrx_invo_393",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "15.-ui:-animare-il-layout-sulla-base-dell'apertura-pannelli-(7:13)",
+      "title": "15. UI: animare il layout sulla base dell'apertura pannelli (7:13)",
+      "time": "7:13",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529074"
+    },
+    "ngrx_invo_394": {
+      "id": "ngrx_invo_394",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "16.-selectors,-reduce-ed-espressioni:-calcolo-numero-fattura-progressivo-(11:52)",
+      "title": "16. Selectors, reduce ed espressioni: calcolo numero fattura progressivo (11:52)",
+      "time": "11:52",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529075"
+    },
+    "ngrx_invo_395": {
+      "id": "ngrx_invo_395",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "17.-creare-una-nuova-fattura-(3:45)",
+      "title": "17. Creare una nuova fattura (3:45)",
+      "time": "3:45",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529073"
+    },
+    "ngrx_invo_396": {
+      "id": "ngrx_invo_396",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "18.-modificare-una-fattura-(17:34)",
+      "title": "18. Modificare una fattura (17:34)",
+      "time": "17:34",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529079"
+    },
+    "ngrx_invo_397": {
+      "id": "ngrx_invo_397",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "19.-cancellare-una-fattura-(5:53)",
+      "title": "19. Cancellare una fattura (5:53)",
+      "time": "5:53",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529076"
+    },
+    "ngrx_invo_398": {
+      "id": "ngrx_invo_398",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "20.-bug-fix:-delete-vs-setactive-(5:18)",
+      "title": "20. bug fix: delete vs setActive (5:18)",
+      "time": "5:18",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529077"
+    },
+    "ngrx_invo_399": {
+      "id": "ngrx_invo_399",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "21.-aggiungere-un-campo-\"date\"-alla-fattura-(2:15)",
+      "title": "21. Aggiungere un campo \"Date\" alla fattura (2:15)",
+      "time": "2:15",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11529078"
+    },
+    "ngrx_invo_400": {
+      "id": "ngrx_invo_400",
+      "course": "NgRx",
+      "idCategory": 46,
+      "category": "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)",
+      "slug": "22.-ui:-migliorare-il-layout-del-pannello-clienti-(4:20)",
+      "title": "22. UI: migliorare il layout del-pannello clienti (4:20)",
+      "time": "4:20",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11632752"
+    },
+    "ngrx_invo_401": {
+      "id": "ngrx_invo_401",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "1.-introduzione-al-capitolo",
+      "title": "1. Introduzione al capitolo",
+      "time": "00:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11534939"
+    },
+    "ngrx_invo_402": {
+      "id": "ngrx_invo_402",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "3.-migliorare-il-layout-del-form-(15:14)",
+      "title": "3. Migliorare il layout del form (15:14)",
+      "time": "15:14",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533242"
+    },
+    "ngrx_invo_403": {
+      "id": "ngrx_invo_403",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "4.-aprire-i-pannelli-clienti-e-dello-storico-fatture-(6:00)",
+      "title": "4. Aprire i pannelli clienti e dello storico fatture (6:00)",
+      "time": "6:00",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533245"
+    },
+    "ngrx_invo_404": {
+      "id": "ngrx_invo_404",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "5.-da-\"template-driven-forms\"-ai-reactive-forms-(6:34)",
+      "title": "5. Da \"template-driven forms\" ai Reactive Forms (6:34)",
+      "time": "6:34",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533244"
+    },
+    "ngrx_invo_405": {
+      "id": "ngrx_invo_405",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "6:-component-lifecycle:-ngonchanges-(6:51)",
+      "title": "6: Component lifecycle: ngOnChanges (6:51)",
+      "time": "6:51",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533241"
+    },
+    "ngrx_invo_406": {
+      "id": "ngrx_invo_406",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "7.-reactiveforms:-metodi-patchvalue-and-reset-(1:54)",
+      "title": "7. ReactiveForms: metodi patchValue and reset (1:54)",
+      "time": "1:54",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533240"
+    },
+    "ngrx_invo_407": {
+      "id": "ngrx_invo_407",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "8.-formarray:-gestione-prodotti-fattura---part-1-(9:17)",
+      "title": "8. FormArray: gestione prodotti fattura - part 1 (9:17)",
+      "time": "9:17",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533243"
+    },
+    "ngrx_invo_408": {
+      "id": "ngrx_invo_408",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "9.-formarray:-gestione-prodotti-fattura---part-2-(14:28)",
+      "title": "9. FormArray: gestione prodotti fattura - part 2 (14:28)",
+      "time": "14:28",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11567392"
+    },
+    "ngrx_invo_409": {
+      "id": "ngrx_invo_409",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "10.-formarray:-gestione-prodotti-fattura---part-3-(3:35)",
+      "title": "10. FormArray: gestione prodotti fattura - part 3 (3:35)",
+      "time": "3:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11567394"
+    },
+    "ngrx_invo_410": {
+      "id": "ngrx_invo_410",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "11.-formarray:-calcolo-totale-prodotti-(8:02)",
+      "title": "11. FormArray: calcolo totale prodotti (8:02)",
+      "time": "8:02",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11534269"
+    },
+    "ngrx_invo_411": {
+      "id": "ngrx_invo_411",
+      "course": "NgRx",
+      "idCategory": 47,
+      "category": "invoiceapp-->-invoiceeditor:-reactive-forms",
+      "slug": "12.-formarray:-selezione-clienti-(8:01)",
+      "title": "12. FormArray: selezione clienti (8:01)",
+      "time": "8:01",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11533239"
+    },
+    "ngrx_migl_412": {
+      "id": "ngrx_migl_412",
+      "course": "NgRx",
+      "idCategory": 48,
+      "category": "miglioramenti-best-practices-and-fix",
+      "slug": "01.-routing-redirect-(0:45)",
+      "title": "01. Routing Redirect (0:45)",
+      "time": "0:45",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541660"
+    },
+    "ngrx_migl_413": {
+      "id": "ngrx_migl_413",
+      "course": "NgRx",
+      "idCategory": 48,
+      "category": "miglioramenti-best-practices-and-fix",
+      "slug": "02.-aggiungere-immagini-al-progetto-(2:42)",
+      "title": "02. Aggiungere immagini al progetto (2:42)",
+      "time": "2:42",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541661"
+    },
+    "ngrx_migl_414": {
+      "id": "ngrx_migl_414",
+      "course": "NgRx",
+      "idCategory": 48,
+      "category": "miglioramenti-best-practices-and-fix",
+      "slug": "03.-ottimizzazione-performance-con-la-changedetectionstrategy-\"onpush\"-(5:33)",
+      "title": "03. Ottimizzazione performance con la ChangeDetectionStrategy \"onPush\" (5:33)",
+      "time": "5:33",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541663"
+    },
+    "ngrx_migl_415": {
+      "id": "ngrx_migl_415",
+      "course": "NgRx",
+      "idCategory": 48,
+      "category": "miglioramenti-best-practices-and-fix",
+      "slug": "04.-tip:-barrel-index-file:-import-/-export-modules-(6:31)",
+      "title": "04. TIP: barrel index file: import / export modules (6:31)",
+      "time": "6:31",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541662"
+    },
+    "ngrx_migl_416": {
+      "id": "ngrx_migl_416",
+      "course": "NgRx",
+      "idCategory": 48,
+      "category": "miglioramenti-best-practices-and-fix",
+      "slug": "05.-miglioramento-performance:-sottoscrizione-manuale-agli-observable-vs-async-(ngif-as)-(3:34)",
+      "title": "05. Miglioramento Performance: sottoscrizione manuale agli observable vs async (ngif-as) (3:34)",
+      "time": "3:34",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541664"
+    },
+    "ngrx_stam_417": {
+      "id": "ngrx_stam_417",
+      "course": "NgRx",
+      "idCategory": 49,
+      "category": "stampa-fattura",
+      "slug": "01.-nested-routes-&-multiple-containers-(7:46)",
+      "title": "01. Nested Routes & multiple Containers (7:46)",
+      "time": "7:46",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541764"
+    },
+    "ngrx_stam_418": {
+      "id": "ngrx_stam_418",
+      "course": "NgRx",
+      "idCategory": 49,
+      "category": "stampa-fattura",
+      "slug": "02.-selettori-compositi-(6:40)",
+      "title": "02. Selettori Compositi (6:40)",
+      "time": "6:40",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541763"
+    },
+    "ngrx_stam_419": {
+      "id": "ngrx_stam_419",
+      "course": "NgRx",
+      "idCategory": 49,
+      "category": "stampa-fattura",
+      "slug": "03.-router:-back-action-(2:11)",
+      "title": "03. Router: back action (2:11)",
+      "time": "2:11",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541761"
+    },
+    "ngrx_stam_420": {
+      "id": "ngrx_stam_420",
+      "course": "NgRx",
+      "idCategory": 49,
+      "category": "stampa-fattura",
+      "slug": "04.-css-tip:-print-media-query-&-angular-css-viewencapsulation-(3:54)",
+      "title": "04. CSS TIP: print media query & Angular CSS ViewEncapsulation (3:54)",
+      "time": "3:54",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541760"
+    },
+    "ngrx_stam_421": {
+      "id": "ngrx_stam_421",
+      "course": "NgRx",
+      "idCategory": 49,
+      "category": "stampa-fattura",
+      "slug": "05.-visualizzazione-dati-e-stampa-(10:35)",
+      "title": "05. Visualizzazione dati e stampa (10:35)",
+      "time": "10:35",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11541762"
+    },
+    "ngrx_extr_422": {
+      "id": "ngrx_extr_422",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "1.-configurazione-modulo-\"root\"-vs-module-\"core\"-(0:36)",
+      "title": "1. Configurazione modulo \"root\" vs module \"core\" (0:36)",
+      "time": "0:36",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542397"
+    },
+    "ngrx_extr_423": {
+      "id": "ngrx_extr_423",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "2.-runtime-checks-&-immutabilità-(2:24)",
+      "title": "2. Runtime checks & immutabilità (2:24)",
+      "time": "2:24",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542503"
+    },
+    "ngrx_extr_424": {
+      "id": "ngrx_extr_424",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "3.-store-\"forroot\"-vs-\"forfeature\"-(1:58)",
+      "title": "3. Store \"forRoot\" vs \"forFeature\" (1:58)",
+      "time": "1:58",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542505"
+    },
+    "ngrx_extr_425": {
+      "id": "ngrx_extr_425",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "4.-store-type-&-actionreducermap-(2:10)",
+      "title": "4. Store Type & actionReducerMap (2:10)",
+      "time": "2:10",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542757"
+    },
+    "ngrx_extr_426": {
+      "id": "ngrx_extr_426",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "10.-reducer-&-sintassi-js-per-restituire-oggetti-in-un-reducer-(1:08)",
+      "title": "10. Reducer & sintassi JS per restituire oggetti in un reducer (1:08)",
+      "time": "1:08",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542395"
+    },
+    "ngrx_extr_427": {
+      "id": "ngrx_extr_427",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "11.-reducer-&-problemi-di-compilazione-aot-(1:33)",
+      "title": "11. Reducer & problemi di compilazione AOT (1:33)",
+      "time": "1:33",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542396"
+    },
+    "ngrx_extr_428": {
+      "id": "ngrx_extr_428",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "20.-actions:-passare-la-minore-quantità-di-informazioni-nel-payload-(4:07)",
+      "title": "20. Actions: passare la minore quantità di informazioni nel payload (4:07)",
+      "time": "4:07",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542502"
+    },
+    "ngrx_extr_429": {
+      "id": "ngrx_extr_429",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "33.-selectors:-sommario-(4:37)",
+      "title": "33. Selectors: sommario (4:37)",
+      "time": "4:37",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542504"
+    },
+    "ngrx_extr_430": {
+      "id": "ngrx_extr_430",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "34.-effects:-sommario-(2:12)",
+      "title": "34. Effects: sommario (2:12)",
+      "time": "2:12",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542753"
+    },
+    "ngrx_extr_431": {
+      "id": "ngrx_extr_431",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "35.-rxjs-tip:-switchmap-vs-exhaustmap-vs-concatmap-vs-mergemap-(2:29)",
+      "title": "35. RXJS TIP: switchmap vs exhaustmap vs concatmap vs mergemap (2:29)",
+      "time": "2:29",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542756"
+    },
+    "ngrx_extr_432": {
+      "id": "ngrx_extr_432",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "36.-effects:-recuperare-lo-stato-con-withlatestfrom-(2:15)",
+      "title": "36. Effects: recuperare lo stato con withLatestFrom (2:15)",
+      "time": "2:15",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542754"
+    },
+    "ngrx_extr_433": {
+      "id": "ngrx_extr_433",
+      "course": "NgRx",
+      "idCategory": 50,
+      "category": "extra:-ngrx-tips-&-tricks",
+      "slug": "37.-effects:-dispatch-multiple-actions-(2:51)",
+      "title": "37. Effects: dispatch multiple actions (2:51)",
+      "time": "2:51",
+      "url": "https://fabiobiondi.teachable.com/courses/630974/lectures/11542755"
+    }
+  }
+}
