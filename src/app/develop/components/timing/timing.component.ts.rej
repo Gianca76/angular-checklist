@@ -1,0 +1,8 @@
+diff a/src/app/develop/components/timing/timing.component.ts b/src/app/develop/components/timing/timing.component.ts	(rejected hunks)
+@@ -10,5 +11 @@ export class TimingComponent implements OnInit {
+-  constructor() { }
+-
+-  ngOnInit() {
+-  }
+-
++  ngOnInit() {}

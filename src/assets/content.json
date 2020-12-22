@@ -1,4 +1,5 @@
 {
+  "totalTime": "16:33:59",
   "categories": {
     "fundamentals": {
       "title": "Fundamentals",
@@ -23,7 +24,8 @@
         "angu_fund_58",
         "angu_fund_59",
         "angu_fund_60"
-      ]
+      ],
+      "time": "01:24:37"
     },
     "manipolazione-dati-e-immutabilità": {
       "title": "Manipolazione dati e immutabilità",
@@ -37,7 +39,8 @@
         "type_mani_16",
         "type_mani_17",
         "type_mani_18"
-      ]
+      ],
+      "time": "00:43:13"
     },
     "imports-and-modules": {
       "title": "imports and modules",
@@ -48,7 +51,8 @@
         "type_impo_21",
         "type_impo_22",
         "type_impo_23"
-      ]
+      ],
+      "time": "00:17:32"
     },
     "video-by-andrea-simone-costa": {
       "title": "Video by Andrea Simone Costa",
@@ -57,7 +61,8 @@
         "type_vide_24",
         "type_vide_25",
         "type_vide_26"
-      ]
+      ],
+      "time": "00:14:03"
     },
     "typescript:-fundamentals": {
       "title": "TypeScript: fundamentals",
@@ -76,7 +81,8 @@
         "type_type_37",
         "type_type_38",
         "type_type_39"
-      ]
+      ],
+      "time": "00:47:26"
     },
     "panoramica": {
       "title": "Panoramica",
@@ -87,7 +93,8 @@
         "angu_pano_42",
         "angu_pano_43",
         "angu_pano_44"
-      ]
+      ],
+      "time": "00:41:41"
     },
     "installazione-e-configurazione": {
       "title": "Installazione e configurazione",
@@ -100,7 +107,8 @@
         "angu_inst_49",
         "angu_inst_50",
         "angu_inst_51"
-      ]
+      ],
+      "time": "00:20:01"
     },
     "angular-structural-directives": {
       "title": "Angular Structural Directives",
@@ -111,7 +119,8 @@
         "angu_angu_63",
         "angu_angu_64",
         "angu_angu_65"
-      ]
+      ],
+      "time": "00:27:22"
     },
     "styling": {
       "title": "Styling",
@@ -123,7 +132,8 @@
         "angu_styl_69",
         "angu_styl_70",
         "angu_styl_71"
-      ]
+      ],
+      "time": "00:20:58"
     },
     "template-driven-form": {
       "title": "Template-driven Form",
@@ -134,7 +144,8 @@
         "angu_temp_74",
         "angu_temp_75",
         "angu_temp_76"
-      ]
+      ],
+      "time": "00:39:32"
     },
     "custom-components": {
       "title": "Custom components",
@@ -148,7 +159,8 @@
         "angu_cust_82",
         "angu_cust_83",
         "angu_cust_84"
-      ]
+      ],
+      "time": "01:12:09"
     },
     "browseranimationmodule:-animazioni-in-angular": {
       "title": "BrowserAnimationModule: animazioni in Angular",
@@ -157,7 +169,8 @@
         "angu_brow_85",
         "angu_brow_86",
         "angu_brow_87"
-      ]
+      ],
+      "time": "00:41:37"
     },
     "multi-view-applications-con-angular-router": {
       "title": "Multi-view applications con Angular Router",
@@ -170,7 +183,8 @@
         "angu_mult_92",
         "angu_mult_93",
         "angu_mult_94"
-      ]
+      ],
+      "time": "00:38:47"
     },
     "comunicazione-con-il-server": {
       "title": "Comunicazione con il server",
@@ -182,7 +196,8 @@
         "angu_comu_98",
         "angu_comu_99",
         "angu_comu_100"
-      ]
+      ],
+      "time": "00:54:36"
     },
     "dependency-injection": {
       "title": "Dependency Injection",
@@ -192,7 +207,8 @@
         "angu_depe_102",
         "angu_depe_103",
         "angu_depe_104"
-      ]
+      ],
+      "time": "00:31:30"
     },
     "applicazioni-modulari,-approfondimento-router-e-lazy-loading": {
       "title": "Applicazioni modulari, approfondimento router e lazy loading",
@@ -209,7 +225,8 @@
         "angu_appl_113",
         "angu_appl_114",
         "angu_appl_115"
-      ]
+      ],
+      "time": "01:09:00"
     },
     "build-&-deploy": {
       "title": "Build & Deploy",
@@ -220,7 +237,8 @@
         "angu_buil_118",
         "angu_buil_119",
         "angu_buil_120"
-      ]
+      ],
+      "time": "00:15:05"
     },
     "live-coding-/-spa:-hotel-booking-app": {
       "title": "Live Coding / SPA: Hotel-Booking App",
@@ -247,7 +265,8 @@
         "angu_live_139",
         "angu_live_140",
         "angu_live_141"
-      ]
+      ],
+      "time": "03:37:39"
     },
     "live-coding-/-crud-app:-approccio-component-based,-gestione-stato-&-best-practices": {
       "title": "Live Coding / Crud APP: approccio component-based, gestione stato & Best Practices",
@@ -270,7 +289,8 @@
         "angu_live_156",
         "angu_live_157",
         "angu_live_158"
-      ]
+      ],
+      "time": "01:43:55"
     },
     "live-coding-/-realtime-app-con-firebase-:-creare-un-remote-controller-per-controllare-un-viewer-di-slides": {
       "title": "Live Coding / REALTIME APP con Firebase : creare un remote controller per controllare un viewer di slides",
@@ -289,7 +309,8 @@
         "angu_live_169",
         "angu_live_170",
         "angu_live_171"
-      ]
+      ],
+      "time": "01:18:54"
     },
     "extra": {
       "title": "Extra",
@@ -300,7 +321,8 @@
         "angu_extr_174",
         "angu_extr_175",
         "angu_extr_176"
-      ]
+      ],
+      "time": "01:25:04"
     },
     "introduzione-a-rxjs": {
       "title": "Introduzione a RxJS",
@@ -320,7 +342,8 @@
         "rxjs_intr_188",
         "rxjs_intr_189",
         "rxjs_intr_190"
-      ]
+      ],
+      "time": "00:58:02"
     },
     "rxjs-&-angular:-esempi-pratici-e-casi-d'uso-per-la-comunicazione-con-il-server": {
       "title": "RxJS & Angular: esempi pratici e casi d'uso per la comunicazione con il server",
@@ -339,7 +362,8 @@
         "rxjs_rxjs_201",
         "rxjs_rxjs_202",
         "rxjs_rxjs_203"
-      ]
+      ],
+      "time": "00:46:26"
     },
     "rxjs:-advanced-topics": {
       "title": "RxJS: advanced topics",
@@ -347,7 +371,8 @@
       "items": [
         "rxjs_rxjs_204",
         "rxjs_rxjs_205"
-      ]
+      ],
+      "time": "00:10:54"
     },
     "rxjs-&-angular:-autenticazione-e-sicurezza": {
       "title": "RxJS & Angular: autenticazione e sicurezza",
@@ -363,7 +388,8 @@
         "rxjs_rxjs_213",
         "rxjs_rxjs_214",
         "rxjs_rxjs_215"
-      ]
+      ],
+      "time": "00:40:10"
     },
     "rxjs-&-angular-reactive-forms": {
       "title": "RxJS & Angular Reactive Forms",
@@ -379,7 +405,8 @@
         "rxjs_rxjs_223",
         "rxjs_rxjs_224",
         "rxjs_rxjs_225"
-      ]
+      ],
+      "time": "00:29:21"
     },
     "multicast-&-rxjs-subjects": {
       "title": "Multicast & RxJS Subjects",
@@ -392,7 +419,8 @@
         "rxjs_mult_230",
         "rxjs_mult_231",
         "rxjs_mult_232"
-      ]
+      ],
+      "time": "00:35:01"
     },
     "extra:-intro-functional-programming-by-andrea-bertoli": {
       "title": "EXTRA: intro functional programming by Andrea Bertoli",
@@ -402,7 +430,8 @@
         "rxjs_extr_234",
         "rxjs_extr_235",
         "rxjs_extr_236"
-      ]
+      ],
+      "time": "00:13:47"
     },
     "introduzione": {
       "title": "Introduzione",
@@ -410,7 +439,8 @@
       "items": [
         "ngrx_intr_237",
         "ngrx_intr_238"
-      ]
+      ],
+      "time": "00:09:11"
     },
     "introduzione-a-ngrx-e-redux": {
       "title": "Introduzione a NGRX e REDUX",
@@ -422,7 +452,8 @@
         "ngrx_intr_242",
         "ngrx_intr_243",
         "ngrx_intr_244"
-      ]
+      ],
+      "time": "00:44:16"
     },
     "ngrx-fundamentals": {
       "title": "NGRX Fundamentals",
@@ -443,7 +474,8 @@
         "ngrx_ngrx_257",
         "ngrx_ngrx_258",
         "ngrx_ngrx_259"
-      ]
+      ],
+      "time": "01:04:43"
     },
     "ngrx:-work-with-collections": {
       "title": "NGRX: work with collections",
@@ -457,7 +489,8 @@
         "ngrx_ngrx_265",
         "ngrx_ngrx_266",
         "ngrx_ngrx_267"
-      ]
+      ],
+      "time": "00:44:11"
     },
     "ngrx---crud-apps": {
       "title": "NGRX - CRUD apps",
@@ -485,7 +518,8 @@
         "ngrx_ngrx_287",
         "ngrx_ngrx_288",
         "ngrx_ngrx_289"
-      ]
+      ],
+      "time": "02:07:40"
     },
     "invoiceapp:-creare-un-sistema-di-fatturazione": {
       "title": "InvoiceApp: creare un sistema di fatturazione",
@@ -495,7 +529,8 @@
         "ngrx_invo_291",
         "ngrx_invo_292",
         "ngrx_invo_293"
-      ]
+      ],
+      "time": "00:09:14"
     },
     "invoiceapp:-preparazione-progetto": {
       "title": "InvoiceApp: Preparazione Progetto",
@@ -509,7 +544,8 @@
         "ngrx_invo_299",
         "ngrx_invo_300",
         "ngrx_invo_301"
-      ]
+      ],
+      "time": "00:37:25"
     },
     "invoiceapp:-configurazione-store": {
       "title": "InvoiceApp: Configurazione Store",
@@ -518,7 +554,8 @@
         "ngrx_invo_302",
         "ngrx_invo_303",
         "ngrx_invo_304"
-      ]
+      ],
+      "time": "00:09:52"
     },
     "invoiceapp:-sync-router-con-lo-store": {
       "title": "InvoiceApp: Sync Router con lo Store",
@@ -529,7 +566,8 @@
         "ngrx_invo_307",
         "ngrx_invo_308",
         "ngrx_invo_309"
-      ]
+      ],
+      "time": "00:28:37"
     },
     "invoiceapp:-gestione-profilo-utente": {
       "title": "InvoiceApp: Gestione Profilo Utente",
@@ -548,7 +586,8 @@
         "ngrx_invo_320",
         "ngrx_invo_321",
         "ngrx_invo_322"
-      ]
+      ],
+      "time": "01:05:16"
     },
     "invoice-app:-autenticazione-e-sicurezza": {
       "title": "Invoice App: Autenticazione e Sicurezza",
@@ -570,7 +609,8 @@
         "ngrx_invo_336",
         "ngrx_invo_337",
         "ngrx_invo_338"
-      ]
+      ],
+      "time": "01:51:51"
     },
     "invoiceapp:-introduzione-alla-feature-invoiceeditor": {
       "title": "InvoiceApp: introduzione alla feature InvoiceEditor",
@@ -581,7 +621,8 @@
         "ngrx_invo_341",
         "ngrx_invo_342",
         "ngrx_invo_343"
-      ]
+      ],
+      "time": "00:18:23"
     },
     "invoiceeditor-->-clients:-ui": {
       "title": "InvoiceEditor -> Clients: UI",
@@ -598,7 +639,8 @@
         "ngrx_invo_352",
         "ngrx_invo_353",
         "ngrx_invo_354"
-      ]
+      ],
+      "time": "01:10:24"
     },
     "invoiceeditor-->-clients:-gestione-store": {
       "title": "InvoiceEditor -> Clients: gestione STORE",
@@ -613,7 +655,8 @@
         "ngrx_invo_361",
         "ngrx_invo_362",
         "ngrx_invo_363"
-      ]
+      ],
+      "time": "00:37:19"
     },
     "invoiceeditor-->-httpstatus:-gestione-messaggi-success-e-failed": {
       "title": "InvoiceEditor -> HttpStatus: gestione messaggi success e failed",
@@ -629,7 +672,8 @@
         "ngrx_invo_371",
         "ngrx_invo_372",
         "ngrx_invo_373"
-      ]
+      ],
+      "time": "00:33:08"
     },
     "invoiceeditor-->-ui-->-sync-user-interface-with-store": {
       "title": "InvoiceEditor -> ui -> sync user interface with store",
@@ -641,7 +685,8 @@
         "ngrx_invo_377",
         "ngrx_invo_378",
         "ngrx_invo_379"
-      ]
+      ],
+      "time": "00:26:41"
     },
     "invoiceeditor-->-invoices:-gestione-fatture-(advanced-tricks)": {
       "title": "InvoiceEditor -> Invoices: gestione fatture (advanced tricks)",
@@ -668,7 +713,8 @@
         "ngrx_invo_398",
         "ngrx_invo_399",
         "ngrx_invo_400"
-      ]
+      ],
+      "time": "02:18:59"
     },
     "invoiceapp-->-invoiceeditor:-reactive-forms": {
       "title": "InvoiceApp -> InvoiceEditor: Reactive Forms",
@@ -685,7 +731,8 @@
         "ngrx_invo_409",
         "ngrx_invo_410",
         "ngrx_invo_411"
-      ]
+      ],
+      "time": "01:19:56"
     },
     "miglioramenti-best-practices-and-fix": {
       "title": "Miglioramenti-best-practices-and-fix",
@@ -696,7 +743,8 @@
         "ngrx_migl_414",
         "ngrx_migl_415",
         "ngrx_migl_416"
-      ]
+      ],
+      "time": "00:19:05"
     },
     "stampa-fattura": {
       "title": "Stampa Fattura",
@@ -707,7 +755,8 @@
         "ngrx_stam_419",
         "ngrx_stam_420",
         "ngrx_stam_421"
-      ]
+      ],
+      "time": "00:31:06"
     },
     "extra:-ngrx-tips-&-tricks": {
       "title": "EXTRA: NGRX tips & tricks",
@@ -725,7 +774,8 @@
         "ngrx_extr_431",
         "ngrx_extr_432",
         "ngrx_extr_433"
-      ]
+      ],
+      "time": "00:28:20"
     }
   },
   "items": {

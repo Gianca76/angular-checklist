@@ -12,6 +12,8 @@ export enum ProjectsActionTypes {
   CHECK_ALL = '[Projects] check all',
   UNCHECK_ALL = '[Projects] uncheck all',
   TOGGLE_FAVORITE = '[Projects] add favorite',
+  TOGGLE_FAVORITE_SUCCESS = '[Projects] add favorite success',
+  TOGGLE_FAVORITE_FAILED = '[Projects] add favorite failed',
   TOGGLE_ALL_FAVORITES = '[Projects] toggle all favorites'
 }
 
@@ -63,10 +65,22 @@ export class SelectProject implements Action {
   constructor(public payload: string) {}
 }
 
+
 export class ToggleFavorite implements Action {
   readonly type = ProjectsActionTypes.TOGGLE_FAVORITE;
 
   constructor(public payload: ChecklistItem) {}
+}
+
+export class ToggleFavoriteSuccess implements Action {
+  readonly type = ProjectsActionTypes.TOGGLE_FAVORITE_SUCCESS;
+
+  constructor(public payload: ChecklistItem) {}
+}
+
+export class ToggleFavoriteFailed  implements Action {
+  readonly type = ProjectsActionTypes.TOGGLE_FAVORITE_FAILED;
+  // constructor(public error: ChecklistItem) {}
 }
 
 export class ToggleAllFavorites implements Action {
@@ -85,4 +99,5 @@ export type ProjectsActions =
   | CheckAll
   | UncheckAll
   | ToggleFavorite
+  | ToggleFavoriteSuccess
   | ToggleAllFavorites;

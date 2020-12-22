@@ -46,7 +46,7 @@
               routerLinkActive="active"
               [routerLink]="category.slug"
             >
-              {{ category.title }}
+              {{ category.title }} <small> ({{category.time}})</small>
             </a>
             <mat-checkbox
               *ngIf="editMode"

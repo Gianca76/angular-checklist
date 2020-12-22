@@ -15,6 +15,7 @@ export interface ChecklistItem {
   category: string;
   author: Author;
   url?: string;
+  time?: string;
 }
 
 export type BreadcrumbItem = CategoryEntity | ChecklistItem;
@@ -27,6 +28,7 @@ interface BaseCategory {
   author: Author;
   score: number;
   enabled: boolean;
+  time?: string;
 }
 
 export interface Category extends BaseCategory {
@@ -36,6 +38,7 @@ export interface Category extends BaseCategory {
 export type ChecklistFilter = 'ALL' | 'DONE' | 'TODO';
 
 export interface Filter {
+  totalTime: string;
   categories: ChecklistFilter;
   favorites: ChecklistFilter;
 }

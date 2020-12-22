@@ -9,7 +9,7 @@ const DEFAULT_PROJECT: ProjectEntities = {
 
 function projectsStateReducer(state: ProjectsState, action: ProjectsActions) {
   switch (action.type) {
-    case ProjectsActionTypes.TOGGLE_FAVORITE:
+    case ProjectsActionTypes.TOGGLE_FAVORITE_SUCCESS:
     case ProjectsActionTypes.TOGGLE_CATEGORY:
     case ProjectsActionTypes.ADD_PROJECT:
     case ProjectsActionTypes.DELETE_PROJECT:
@@ -67,7 +67,7 @@ export const projectEntitiesReducer = (state: ProjectsState, action: ProjectsAct
     case ProjectsActionTypes.UNCHECK_ALL:
     case ProjectsActionTypes.TOGGLE_ITEM:
     case ProjectsActionTypes.TOGGLE_CATEGORY:
-    case ProjectsActionTypes.TOGGLE_FAVORITE:
+    case ProjectsActionTypes.TOGGLE_FAVORITE_SUCCESS:
     case ProjectsActionTypes.TOGGLE_ALL_FAVORITES:
       return {
         ...entities,
@@ -80,7 +80,7 @@ export const projectEntitiesReducer = (state: ProjectsState, action: ProjectsAct
 
 export const projectReducer = (project: Project, action: ProjectsActions): Project => {
   switch (action.type) {
-    case ProjectsActionTypes.TOGGLE_FAVORITE:
+    case ProjectsActionTypes.TOGGLE_FAVORITE_SUCCESS:
     case ProjectsActionTypes.TOGGLE_ALL_FAVORITES:
       return {
         ...project,
@@ -127,7 +127,7 @@ export const favoritesReducer = (favoriteEntities: FavoriteEntities, action: Pro
       });
 
       return updatedFavorites;
-    case ProjectsActionTypes.TOGGLE_FAVORITE:
+    case ProjectsActionTypes.TOGGLE_FAVORITE_SUCCESS:
       const { id: itemId } = action.payload;
       return toggleEntity(favoriteEntities, itemId);
     default:

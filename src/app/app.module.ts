@@ -13,12 +13,15 @@ import { CustomMaterialModule } from './custom-material.module';
 import { ProjectsModule } from './projects/projects.module';
 import { META_REDUCERS, ROOT_REDUCER } from './state/app.state';
 import { DevelopModule } from './develop/develop.module';
+import { EffectsModule } from '@ngrx/effects';
+import { ProjectStateEffects } from './projects/state/project-state.effects';
 
 @NgModule({
   declarations: [AppComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'angular-checklist' }),
     BrowserAnimationsModule,
+    EffectsModule.forRoot([ProjectStateEffects]),
     StoreModule.forRoot(ROOT_REDUCER, { metaReducers: META_REDUCERS }),
     ProjectsModule,
     ChecklistModule,

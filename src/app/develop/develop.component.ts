@@ -1,11 +1,61 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'gt-develop',
   templateUrl: './develop.component.html'
 })
 export class DevelopComponent implements OnInit {
+  categories: string[] = [
+    'Fundamentals',
+    'Manipolazione dati e immutabilità',
+    'imports and modules',
+    'Video by Andrea Simone Costa',
+    'TypeScript: fundamentals',
+    'Panoramica',
+    'Installazione e configurazione',
+    'Angular Structural Directives',
+    'Styling',
+    'Template-driven Form',
+    'Custom components',
+    'BrowserAnimationModule: animazioni in Angular',
+    'Multi-view applications con Angular Router',
+    'Comunicazione con il server',
+    'Dependency Injection',
+    'Applicazioni modulari, approfondimento router e lazy loading',
+    'Build & Deploy',
+    'Live Coding / SPA: Hotel-Booking App',
+    'Live Coding / Crud APP: approccio component-based, gestione stato & Best Practices',
+    'Live Coding / REALTIME APP con Firebase : creare un remote controller per controllare un viewer di slides',
+    'Extra',
+    'Introduzione a RxJS',
+    "RxJS & Angular: esempi pratici e casi d'uso per la comunicazione con il server",
+    'RxJS: advanced topics',
+    'RxJS & Angular: autenticazione e sicurezza',
+    'RxJS & Angular Reactive Forms',
+    'Multicast & RxJS Subjects',
+    'EXTRA: intro functional programming by Andrea Bertoli',
+    'Introduzione',
+    'Introduzione a NGRX e REDUX',
+    'NGRX Fundamentals',
+    'NGRX: work with collections',
+    'NGRX - CRUD apps',
+    'InvoiceApp: creare un sistema di fatturazione',
+    'InvoiceApp: Preparazione Progetto',
+    'InvoiceApp: Configurazione Store',
+    'InvoiceApp: Sync Router con lo Store',
+    'InvoiceApp: Gestione Profilo Utente',
+    'Invoice App: Autenticazione e Sicurezza',
+    'InvoiceApp: introduzione alla feature InvoiceEditor',
+    'InvoiceEditor -> Clients: UI',
+    'InvoiceEditor -> Clients: gestione STORE',
+    'InvoiceEditor -> HttpStatus: gestione messaggi success e failed',
+    'InvoiceEditor -> ui -> sync user interface with store',
+    'InvoiceEditor -> Invoices: gestione fatture (advanced tricks)',
+    'InvoiceApp -> InvoiceEditor: Reactive Forms',
+    'Miglioramenti-best-practices-and-fix',
+    'Stampa Fattura',
+    'EXTRA: NGRX tips & tricks'
+  ];
   corsi = [
     {
       id: 1,
@@ -4359,86 +4409,36 @@ export class DevelopComponent implements OnInit {
   ];
 
   items: any;
-  desiderata = {
-    categories: {
-      Fundamentals: {
-        title: 'Fundamentals',
-        summary: 'Questa categoria racchiude il processo di Login e Logout.',
-        slug: 'fundamentals',
-        items: ['Z2guUQd', 'Z1ohpIo']
-      },
-      stock: {
-        title: 'Stock',
-        summary: 'Questa categoria racchiude tutto ciò che riguarda la griglia stock e i relativi gridsettings.',
-        slug: 'stock',
-        items: ['1pQWxn', 'NEzhm', 'Z2qKc11', 'Z1eHhoR', '2eREkv']
-      }
-    }
-  };
-
-  categories: string[] = [
-    'Fundamentals',
-    'Manipolazione dati e immutabilità',
-    'imports and modules',
-    'Video by Andrea Simone Costa',
-    'TypeScript: fundamentals',
-    'Panoramica',
-    'Installazione e configurazione',
-    'Angular Structural Directives',
-    'Styling',
-    'Template-driven Form',
-    'Custom components',
-    'BrowserAnimationModule: animazioni in Angular',
-    'Multi-view applications con Angular Router',
-    'Comunicazione con il server',
-    'Dependency Injection',
-    'Applicazioni modulari, approfondimento router e lazy loading',
-    'Build & Deploy',
-    'Live Coding / SPA: Hotel-Booking App',
-    'Live Coding / Crud APP: approccio component-based, gestione stato & Best Practices',
-    'Live Coding / REALTIME APP con Firebase : creare un remote controller per controllare un viewer di slides',
-    'Extra',
-    'Introduzione a RxJS',
-    "RxJS & Angular: esempi pratici e casi d'uso per la comunicazione con il server",
-    'RxJS: advanced topics',
-    'RxJS & Angular: autenticazione e sicurezza',
-    'RxJS & Angular Reactive Forms',
-    'Multicast & RxJS Subjects',
-    'EXTRA: intro functional programming by Andrea Bertoli',
-    'Introduzione',
-    'Introduzione a NGRX e REDUX',
-    'NGRX Fundamentals',
-    'NGRX: work with collections',
-    'NGRX - CRUD apps',
-    'InvoiceApp: creare un sistema di fatturazione',
-    'InvoiceApp: Preparazione Progetto',
-    'InvoiceApp: Configurazione Store',
-    'InvoiceApp: Sync Router con lo Store',
-    'InvoiceApp: Gestione Profilo Utente',
-    'Invoice App: Autenticazione e Sicurezza',
-    'InvoiceApp: introduzione alla feature InvoiceEditor',
-    'InvoiceEditor -> Clients: UI',
-    'InvoiceEditor -> Clients: gestione STORE',
-    'InvoiceEditor -> HttpStatus: gestione messaggi success e failed',
-    'InvoiceEditor -> ui -> sync user interface with store',
-    'InvoiceEditor -> Invoices: gestione fatture (advanced tricks)',
-    'InvoiceApp -> InvoiceEditor: Reactive Forms',
-    'Miglioramenti-best-practices-and-fix',
-    'Stampa Fattura',
-    'EXTRA: NGRX tips & tricks'
-  ];
-
   cats: Object = {};
-
   content: Object = {};
+  totalTime: string;
 
-  arrayToObject = (array, keyField) =>
+  arrayToObject = (array, keyField): Object =>
     array.reduce((obj, item) => {
       obj[item[keyField]] = item;
       return obj;
-    }, {});
+    }, {})
+
+  secondsToTime(seconds): string {
+    return new Date(seconds * 1000).toISOString().substr(11, 8);
+  }
+
+  stringToSeconds(str): number {
+    const arr = str.split(':');
+    let res = 0;
+    if (arr.length === 2) { // mm:ss
+      res = (+arr[0]) * 60 + (+arr[1]);
+    } else if (arr.length === 3) { // hh:mm:ss
+      res = (+arr[0]) * 60 * 60 + (+arr[1]) * 60 + (+arr[2]);
+    }
+    return res;
+  }
+
+  reducer = (accumulator, currentValue) => accumulator + currentValue;
+
 
   ngOnInit() {
+
     this.items = this.arrayToObject(
       this.corsi.map(x => ({
         ...x,
@@ -4452,6 +4452,8 @@ export class DevelopComponent implements OnInit {
       })),
       'id'
     );
+
+    this.totalTime = this.secondsToTime(this.corsi.map(x => this.stringToSeconds(x.time)).reduce(this.reducer));
 
     for (const cat of this.categories) {
       this.cats[
@@ -4467,13 +4469,15 @@ export class DevelopComponent implements OnInit {
           .toLowerCase(),
         items: this.corsi
           .filter(x => x.category === cat)
-          .map(x => (x.course.slice(0, 4) + '_' + x.category.slice(0, 4) + '_' + x.id).toLowerCase())
-        // its: this.items.filter(x => x.category === cat)
+          .map(x => (x.course.slice(0, 4) + '_' + x.category.slice(0, 4) + '_' + x.id).toLowerCase()),
+        time: this.secondsToTime((this.corsi.filter(x => x.category === cat).map(x => this.stringToSeconds(x.time))).reduce(this.reducer))
       };
     }
 
+    this.content['totalTime'] = this.totalTime;
     this.content['categories'] = this.cats;
     this.content['items'] = this.items;
-    console.log(this.content);
+
+    // console.log(this.content);
   }
 }

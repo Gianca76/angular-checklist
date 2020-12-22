@@ -1,5 +1,5 @@
 <mat-checkbox color="primary" (click)="toggleItem.emit(item)" [checked]="item.checked"></mat-checkbox>
-<a [class.done]="item.checked" [routerLink]="['../../checklist', item.category, item.id]">{{ item.title }}</a>
+<a [class.done]="item.checked" [routerLink]="['../../checklist', item.category, item.id]">{{ item.title }} ({{ item.time }})</a>
 <!-- <a [routerLink]="['../../checklist', item.category, item.id]"><mat-icon>info</mat-icon></a> -->
 <!-- <a [href]="item.url" target="_blank"><mat-icon>link</mat-icon></a> -->
 
